@@ -2,7 +2,7 @@
 
 
 # Intro-Web-Dev Site Repo
-Instructor: Michael Cassens ([michael.cassens@umontana.edu](mailto:michael.cassens@umontana.edu))
+Instructor: Ashley Rezvani ([ashley.rezvani@mso.umt.edu](mailto:ashley.rezvani@mso.umt.edu))
 
 
 ### License
