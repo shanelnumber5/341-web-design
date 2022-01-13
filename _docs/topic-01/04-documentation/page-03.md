@@ -27,4 +27,4 @@ Placing the `README.md` file the repository's root directory, results in GitHub 
 
 </pre>
 
-Don't worry if this doesn't quite make sense yet: we can provide an example! Go ahead, <a href="{{ site.git_address }}#readme" target="_blank">check ours out</a>.
+Don't worry if this doesn't quite make sense yet: we can provide an example! Go ahead, <a href="https://github.com/ashley-rezvani/341-web-design-Spring2022#readme" target="_blank">check ours out</a>.
