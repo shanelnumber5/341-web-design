@@ -27,9 +27,8 @@ This might take a few seconds to load...
 
 
 ## How Does the Internet Work? 
-<div class="embed-responsive embed-responsive-16by9">
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TNQsmPf24go" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 
 <a href="https://www.explainthatstuff.com/internet.html" target="_new">More resources about the Internet</a>
