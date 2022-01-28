@@ -26,7 +26,7 @@ This might take a few seconds to load...
 <div class="divider-pg"></div>
 
 
-## How Does the Internet Work? 
+## The Infrastructure of the Internet
 
 <iframe width="748" height="421" src="https://www.youtube.com/embed/TNQsmPf24go?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
