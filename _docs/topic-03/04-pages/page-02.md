@@ -42,7 +42,7 @@ Browsers have some default behaviors they do automatically with pages when a vis
 </p>
 
 
-One way to avoid long URLs is to place the page in the root of the site (in our case, **MART361-WebDesign/**). No additional pathing is needed, as the page is not in any other directories.
+One way to avoid long URLs is to place the page in the root of the site (in our case, **MART341-WebDesign/**). No additional pathing is needed, as the page is not in any other directories.
 
 We can still have additional pages that we explicitly address. For example, we could have other HTML pages at the same directory level, such as a `contact.html`.
 
