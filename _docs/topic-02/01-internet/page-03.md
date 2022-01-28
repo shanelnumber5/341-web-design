@@ -11,5 +11,5 @@ tags: how, internet
 
 ## How the Internet Works
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/x3c1ih2NJEg?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+  <iframe width="748" height="421" src="https://www.youtube.com/embed/TNQsmPf24go?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
