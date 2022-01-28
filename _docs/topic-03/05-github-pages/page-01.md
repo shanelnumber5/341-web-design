@@ -32,7 +32,7 @@ This is where <a href="https://pages.github.com/" target="_blank">GitHub Pages</
 GitHub assigns each user the following URL:
 _username.github.io_
 
-The following is your _baseurl_. You will "attach" paths to further child directories and files to the end of this basurl. For example, `https://michaelcassens.github.io/MART341-WebDesign/assignment-4/`
+The following is your _baseurl_. You will "attach" paths to further child directories and files to the end of this basurl. For example, `https://ashley-rezvani.github.io/MART341-WebDesign/assignment-04/`
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2MsN8gpT6jY?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
