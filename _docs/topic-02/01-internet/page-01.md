@@ -21,14 +21,4 @@ This might take a few seconds to load...
 <iframe src="https://hcdistancelearning.h5p.com/content/1291101836578419038/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://hcdistancelearning.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
-
-
-<div class="divider-pg"></div>
-
-
-## The Infrastructure of the Internet
-
-<iframe width="748" height="421" src="https://www.youtube.com/embed/TNQsmPf24go?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 <a href="https://www.explainthatstuff.com/internet.html" target="_new">More resources about the Internet</a>
