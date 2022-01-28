@@ -17,7 +17,7 @@ You invite an old friend to visit you, but they don't know where you currently l
 
 We find sites and files on the web in the same way, but instead of looking for houses, we're looking for other computers, servers, files, or even queries on a network. A "web address" or **uniform resource locator** (URL) is assigned to every website so that users and servers can find that site quickly and easily.
 
-Directions for a site or file can be broken down similarly (in the most basic sense) to directions to a house, but more applicably into _protocol, domain, path_, and _file_.
+Directions for a site or file can be broken down similarly (in the most basic sense) to directions to a house, but more applicably into _protocol, domain, path_, and _file_. The protocol, domain, and path make up the three essential parts of a URL.
 
 Continue to the next page to find out how the web does this.
 
