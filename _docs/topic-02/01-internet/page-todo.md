@@ -10,7 +10,7 @@ categories: uncategorized
   <div class="col-lg-4">
     <div class="bs-component">
       <div class="list-group">
-        <a href="http://line-mode.cern.ch/www/hypertext/WWW/TheProject.html" target="_blank" class="list-group-item hw-item">
+        <a href="http://info.cern.ch/" target="_blank" class="list-group-item hw-item">
           <img class="icon-hw" src="../img/hw-icon-cern.svg" />
           <h4 class="list-group-item-heading">Visit the First Website</h4>
           <div class="divider-hw"></div>
