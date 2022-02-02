@@ -31,9 +31,6 @@ Your workflow will now consist of creating new files and folders on your local c
       <i class="fas fa-times-circle"></i>
     </div>
   </div>
-  <div class="col-lg-9">
-    <p>You <u>should not</u> upload or make changes to files on GitHub.com anymore. From now on, these processes should be done in the GitHub Desktop application.</p>
-  </div>
 </div>
 
 <iframe src="https://umontanamediaarts.com/MART341/wp-admin/admin-ajax.php?action=h5p_embed&id=24" width="958" height="949" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://umontanamediaarts.com/MART341/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
