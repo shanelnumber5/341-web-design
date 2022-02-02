@@ -8,7 +8,7 @@ tags: break, empty
 
 <div class="divider-heading"></div>
 
-Like you saw in [Using Spaced Paragraphs](../breaks-paragraphs), if you want more control over how the contents of a paragraph appear, you can force a line break inside a paragraph using the **break** tag (`<br />`).
+Like you saw in [Paragraphs](../two-tags-paragraphs), if you want more control over how the contents of a paragraph appear, you can force a line break inside a paragraph using the **break** tag (`<br />`).
 
 
 <div class="code-heading">
