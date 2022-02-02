@@ -17,6 +17,8 @@ tags: app, github, guide, install
 
 Some of you may use the Terminal or Powershell to communicate with your computer, but GUIs make the process faster and more intuitive to learn.
 
+If you wish, you can download GitHub Desktop. This will allow you to work locally on your computer, and then push changes to GitHub on the web. However, **this is not required.** If you are curious, please feel free to read through the rest of this topic for a tutorial on how to set up GitHub Desktop. If you are okay with continuing to use GitHub only through your browser, you are done with the development topic for the week!
+
 
 <div class="divider-pg"></div>
 
