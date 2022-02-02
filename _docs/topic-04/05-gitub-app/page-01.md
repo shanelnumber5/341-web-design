@@ -17,6 +17,29 @@ tags: app, github, guide, install
 
 Some of you may use the Terminal or Powershell to communicate with your computer, but GUIs make the process faster and more intuitive to learn.
 
+<div class="row callout-columns status-danger">
+  <div class="col-lg-3">
+    <div class="icon">
+      <ul class="bursts">
+        <li class="deg0"></li>
+        <li class="deg36"></li>
+        <li class="deg72"></li>
+        <li class="deg108"></li>
+        <li class="deg144"></li>
+        <li class="deg180"></li>
+        <li class="deg216"></li>
+        <li class="deg252"></li>
+        <li class="deg288"></li>
+        <li class="deg324"></li>
+      </ul>
+      <i class="fas fa-times-circle"></i>
+    </div>
+  </div>
+  <div class="col-lg-9">
+    <p>If you wish, you can download GitHub Desktop. This will allow you to work locally on your computer, and then push changes to GitHub on the web. However, <u>this is not required</u></p>
+  </div>
+</div>
+
 If you wish, you can download GitHub Desktop. This will allow you to work locally on your computer, and then push changes to GitHub on the web. However, **this is not required.** If you are curious, please feel free to read through the rest of this topic for a tutorial on how to set up GitHub Desktop. If you are okay with continuing to use GitHub only through your browser, you are done with the development topic for the week!
 
 
