@@ -8,7 +8,7 @@ tags: directory, file, guide, index, new
 
 <div class="divider-heading"></div>
 
-<span class="label label-warning">Load Time</span> This page contains embedded interactive content. In may take 3-10 seconds to completely load.
+<span class="label label-warning">Load Time</span> This page contains embedded interactive content. It may take 3-10 seconds to completely load.
 
 Let's create our first HTML file by adding it to what now should be your standardized directory structure.
 
