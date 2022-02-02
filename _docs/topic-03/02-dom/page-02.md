@@ -40,7 +40,7 @@ Everything you see on a browser is a combination of _markup_ (text), _style_ (de
   </div>
   <div class="col-lg-10">
     <h3>Extensible Markup Language (<b>XML</b>)</h3>
-    <p>A compliment to HTML, XML <i>describes</i> document nodes, whereas HTML <i>displays</i> document nodes. Its major usage today is in <a href="https://www.youtube.com/watch?v=RDo3hBL1rfA" target="_blank">the technologies like those utilized by Gmail</a> that allow specific elements to update without having to refresh the entire page.</p>
+    <p>A complement to HTML, XML <i>describes</i> document nodes, whereas HTML <i>displays</i> document nodes. Its major usage today is in <a href="https://www.youtube.com/watch?v=RDo3hBL1rfA" target="_blank">the technologies like those utilized by Gmail</a> that allow specific elements to update without having to refresh the entire page.</p>
 
     <ul class="pros-and-cons">
       <li class="icon-pro">Stored in plain-text format, which simplifies data sharing.</li>
