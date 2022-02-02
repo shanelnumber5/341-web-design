@@ -13,25 +13,5 @@ tags: app, guide, push, track, vcs
 
 Your workflow will now consist of creating new files and folders on your local computer, saving files, "pushing" changes, and viewing updates on <a href="" target=" _blank ">GitHub.com</a>.
 
-<div class="row callout-columns status-danger">
-  <div class="col-lg-3">
-    <div class="icon">
-      <ul class="bursts">
-        <li class="deg0"></li>
-        <li class="deg36"></li>
-        <li class="deg72"></li>
-        <li class="deg108"></li>
-        <li class="deg144"></li>
-        <li class="deg180"></li>
-        <li class="deg216"></li>
-        <li class="deg252"></li>
-        <li class="deg288"></li>
-        <li class="deg324"></li>
-      </ul>
-      <i class="fas fa-times-circle"></i>
-    </div>
-  </div>
-</div>
-
 <iframe src="https://umontanamediaarts.com/MART341/wp-admin/admin-ajax.php?action=h5p_embed&id=24" width="958" height="949" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://umontanamediaarts.com/MART341/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 <a href="https://umontanamediaarts.com/MART341/wp-admin/admin-ajax.php?action=h5p_embed&id=24" class="btn btn-default btn-xs" target="_blank">View Larger</a>
