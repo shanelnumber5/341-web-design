@@ -9,7 +9,7 @@ tags: browser, testing
 <div class="divider-heading"></div>
 
 
-<span class="label label-warning">Load Time</span> This page contains embedded interactive content. In may take 3-10 seconds to completely load.
+<span class="label label-warning">Load Time</span> This page contains embedded interactive content. It may take 3-10 seconds to completely load.
 
 As a web designer or developer, you should have access to _multiple browsers_ to test how your site performs in different environments, and this includes computers versus mobile devices. Google's <a href="https://www.google.com/chrome/" target="_blank">Chrome</a> browser continues to be the most widely-used, but others still account for a large number of users and should be included in your testing.
 
