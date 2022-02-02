@@ -9,7 +9,7 @@ tags: app, connect, github, guide, repository
 <div class="divider-heading"></div>
 
 
-<span class="label label-warning">Load Time</span> This page contains embedded interactive content. In may take 3-10 seconds to completely load.
+<span class="label label-warning">Load Time</span> This page contains embedded interactive content. It may take 3-10 seconds to completely load.
 
 In order to continue to work in our <a href="" target="_blank">GitHub.com</a> homework repository from your computer, we need to connect the two interfaces using the GitHub Desktop app.
 
