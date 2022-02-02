@@ -9,7 +9,7 @@ tags: browser, file, guide, index
 <div class="divider-heading"></div>
 
 
-<span class="label label-warning">Load Time</span> This page contains embedded interactive content. In may take 3-10 seconds to completely load.
+<span class="label label-warning">Load Time</span> This page contains embedded interactive content. It may take 3-10 seconds to completely load.
 
 It would help if you decided how best to set up your workstation to ensure development flow.
 
