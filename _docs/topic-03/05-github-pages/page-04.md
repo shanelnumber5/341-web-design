@@ -31,7 +31,7 @@ To serve our repository, we need to tell GitHub that this is a "GitHub pages pro
     </div>
   </div>
   <div class="col-lg-9">
-    <p>It is best that you have completed your <code>index.html</code> first and <a href="../../topic-02/git-add-directory">uploaded it to GitHub</a> before attempting this tutorial.</p>
+    <p>It is best that you have watched the assignment tutorial video, completed <code>assignment-04</code>, and <a href="../../topic-02/git-add-directory">uploaded it to GitHub</a> before attempting this tutorial.</p>
   </div>
 </div>
 
