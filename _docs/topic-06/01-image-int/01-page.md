@@ -15,5 +15,5 @@ permalink: /topic-06/img-about/
 
   <p>Like most things about the web, images have humble beginnings. To the right is first picture ever uploaded on the web, posted by Tim Burners Lee on behalf of a comedy band called <cite>Les Horrible Cernettes</cite>, July 18, 1992.</p>
 
-  <p>It is interesting to note that the first image on the web was, in fact, Photoshopped. <a href="https://www.tagsforlikes.com/TagGlossary/nofilter.html" target="_blank">#NoFilter</a> is a new concept, not a web Renaissance.</p>
+  <p>It is interesting to note that the first image on the web was, in fact, Photoshopped. #NoFilter is a new concept, not a web Renaissance.</p>
 </div>
