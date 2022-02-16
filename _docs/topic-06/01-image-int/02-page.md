@@ -8,7 +8,7 @@ permalink: /topic-06/img-save/
 
 Generally, images should be **less-than 1,000 kB** in size (under 1 megabyte).
 
-If you remember from your introductory design classes, creating and saving files for print is much different than for web. For example, printers print at _300 ppi_, but screens only need _72 ppi_ for proper resolution. The larger your files, the longer it will take your page to load. This is important because end-users are not patient.  Think about how long you are willing to wait for a page to load.  Guess how much time you get before a user leaves your site?  Answer: 2-3 seconds.
+As you may already know, creating and saving files for print is much different than for web. For example, printers print at _300 ppi_, but screens only need _72 ppi_ for proper resolution. The larger your files, the longer it will take your page to load. This is important because end-users are not patient.  Think about how long you are willing to wait for a page to load.  Guess how much time you get before a user leaves your site?  Answer: 2-3 seconds.
 
 To optimize images for the web, many image editors have a "Save for Web and Devices" or "Export As" in their save options. There, you can change image formats and sizes to try and get your files of an appropriate size.
 
