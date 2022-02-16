@@ -16,7 +16,7 @@ tags: best-practice, code
   <p>What does this look like? Well, a site with well-written markup will have:</p>
 
   <ol>
-    <li>Logical or Liner Ordering</li>
+    <li>Logical or Linear Ordering</li>
     <li>Properly Nested Tags</li>
     <li>Indented Elements</li>
   </ol>
