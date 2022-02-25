@@ -14,7 +14,7 @@ To optimize images for the web, many image editors have a "Save for Web and Devi
 
 <img src="../img/save-imgs-for-web.jpg" alt="Image of 'Save for Web' dialogue in Photoshop CC" title="Save for Web" width="1000" height="auto" style="border: none" />
 
-Here is the <a href="../img/dogs-in-field-original.jpeg" target="_blank">original dog image</a>, which clocks in at an _enormous_ 23.9 mB, and 5597px by 3148px. Watch how long that loads in another tab.
+Here is the <a href="../img/dogs-in-field-original.jpeg" target="_blank">original dog image</a>, which clocks in at an _enormous_ 23.9 mB, and 5597px by 3148px. Click on the link and watch how long it takes for this image to load in another tab.
 
 <br/>
 <hr />
