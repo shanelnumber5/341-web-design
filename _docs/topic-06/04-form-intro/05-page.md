@@ -19,4 +19,5 @@ permalink: /topic-06/form-id-class/
 </div>
 
 
-As with many other elements in HTML, you should assign a unique element **id** and **class** the form element.
+As with many other elements in HTML, you should add an **id** and/or **class** attribute to your form elements. The **id** attribute is used to uniquely identify an element from all other elements on a page. You can give the id attribue any value that you like, it is just a way to single out a specific element. A **class** attribute can be used to group a bunch of different elements into a category, so multiple elements will have the same class attribute.
+
