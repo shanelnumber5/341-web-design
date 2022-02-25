@@ -63,7 +63,7 @@ As with radio buttons, you can use the `checked` attrubite to pre-select checkbo
               <br />
               <input type="radio" name="level" value="other" /> Other: <input type="text" name="other" id="level-other-text" style="margin-left: 1em;" size="30" />
 
-            <p style="font-size: large; margin-top: 1.5em;">Services Utilized</p>
+            <p style="font-size: large; margin-top: 1.5em;">Services Utilized:</p>
               <input type="checkbox" name="service" value="lab" /> Computer Lab
               <br />
               <input type="checkbox" name="service" value="library" /> Library
