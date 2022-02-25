@@ -12,7 +12,7 @@ The **file upload element** (`type="file"`), is used to allow a user to;
 2. Select a file
 3. Upload it to the URL specified in the "`action=""`" attribute.
 
-Most of the visual appearance for this type of box, as well as the subsequent 'file browser' will be dictated by the user's browser & OS
+Most of the visual appearance for this type of box, as well as the subsequent 'file browser' will be dictated by the user's browser and operating system.
 
 
 <div class="codepen-embed">
