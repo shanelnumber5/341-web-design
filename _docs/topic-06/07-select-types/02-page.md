@@ -31,7 +31,7 @@ The `checked="checked"` attribute can be used with one of the radio button eleme
   <span class="html">HTML</span>
 </div>
 ```html
-<p>Admit Type:</p>
+<p>Admission Level:</p>
   <input type="radio" name="level" value="nondeg" /> Nondegree
   <br />
   <input type="radio" name="level" value="undergrad" checked /> Undergraduate
