@@ -19,5 +19,5 @@ Labels can also be included by using the `for=""` attribute. The value for this 
 
 
 <div class="codepen-embed">
-  <p data-height="400" data-theme-id="30567" data-slug-hash="ZEWPJMO" data-default-tab="html,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="Labeling Form Elements" class="codepen"></p>
+  <p data-height="400" data-theme-id="30567" data-slug-hash="xxPaRjK" data-default-tab="html,result" data-user="coding-logic" data-embed-version="2" data-pen-title="Labels and IDs" class="codepen"></p>
 </div>
