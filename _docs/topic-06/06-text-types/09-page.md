@@ -6,7 +6,7 @@ permalink: /topic-06/text-value/
 
 <div class="divider-heading"></div>
 
-The `value` attribute "pre-fill's" a text box. Unlike `placeholder`, when the user clicks in the text box, the "pre-filled" text is not replaced. Instead, the user can freely edit, remove, or keep it.
+The `value` attribute "pre-fills" a text box. Unlike `placeholder`, when the user clicks in the text box, the "pre-filled" text is not replaced. Instead, the user can freely edit, remove, or keep it.
 
 
 <div class="code-heading">
