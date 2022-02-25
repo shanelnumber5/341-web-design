@@ -1,5 +1,5 @@
 ---
-title: The &lt;iput&gt; Tag
+title: The &lt;input&gt; Tag
 module: topic-06
 permalink: /topic-06/input-tag/
 ---
