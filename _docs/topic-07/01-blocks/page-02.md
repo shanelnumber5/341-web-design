@@ -11,8 +11,6 @@ There are a number of attributes that you can apply to every element. The first 
 <div class="container-row">
   <img src="../img/legos-ids.png" alt="stacked building blocks with different id names" title="Each block has a unique name!" style="float: right; width: 300px; margin-top: 0;" />
 
-  <p>The “id” attribute takes as its value a string (e.g. its value in the form of letters, rather than numbers), which should be a <b>unique</b> identifier to that specific element.</p>
-
   <p>To declare the id attribute of an element, use the standard <code>name="value"</code> format for writing attributes. Remember, all attributes have a name (also called a key), followed by an equals sign, and then the value is wrapped in quotation marks afterward. With the id attribute, you get to decide on the value.</p>
 </div>
 
