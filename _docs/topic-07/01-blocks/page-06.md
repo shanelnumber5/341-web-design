@@ -18,26 +18,4 @@ When thinking about page structure and layout, a good plan is to start with **di
 
 
 <div class="divider-pg"></div>
-
-
-## Step-By-Step
-Below is a page with two descriptions of popular sports. Here are the steps taken to create this page:
-
-1. Created 3 empty **divs**, `<div>...</div>`
-2. Added **ids** to those divs, to make them unique:
-  - `id="header"`
-  - `id="football-block"`
-  - `id="esports-block"`
-3. Added structural **content** to both divs, including headings and paragraphs.
-4. Applied the **classes** listed in the `<head>`:
-  - `class="page-block"` to _all_ the divs, as they should visually appear the same (color, font-size, etc).
-  - Added the `centered` class to all content to be centered on the page.<br/>
-  <span class="label label-info">Note</span> To apply multiple classes to a div, simply add a “space” between classes. For example `<div class="page-block centered">`
-5. Added a **span** to the first sentence of each paragraph, with the class `class="first-line"`. With the applied styling stated in the `<head>`, each sentence with this span will be italic.
-6. Added the illustrative content - the 2 flag images.
-7. Swelled with pride.
-
-
-<div class="external-embed">
-  <p data-height="600" data-theme-id="30567" data-slug-hash="BaKXvqd" data-default-tab="html,result" data-user="retrog4m3r" data-pen-title="HTML Block-Level and Inline Elements" class="codepen"></p>
 </div>
