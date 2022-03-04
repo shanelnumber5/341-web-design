@@ -16,7 +16,7 @@ This topic, you'll begin exploring the basic building blocks of page design, and
 
 Recall from last week, we talked quite a bit about images and their attributes.  However, as designers, we need to consider how and when to add media, what filetypes to use, their file sizes, and what code element works best for each specific situation.
 
-This week we will be wrapping up our unit on HTML by looking at three groups: additional structural elements, metadata, and media.
+This week we will start to wrap up our unit on HTML by looking at three groups: additional structural elements, metadata, and media.
 
 By the end of this Topic, we hope you:
 <ul class="pros-and-cons">
