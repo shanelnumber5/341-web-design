@@ -35,17 +35,4 @@ categories: uncategorized
             </div>
         </div>
     </div>
-  <div class="col-lg-4">
-    <div class="bs-component">
-      <div class="list-group">
-        <a href="https://codepen.io/retrog4m3r/pen/WNwVLLM" target="_blank" class="list-group-item">
-          <i class="icon-hw fab fa-codepen" aria-hidden="true"></i>
-          <h4 class="list-group-item-heading">Code-Play: “Divs, ids, Classes, and Spans”</h4>
-          <p class="list-group-item-text">Try recreating the “Sports Descriptions” page by yourself!</p>
-          <div class="divider-hw"></div>
-          <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 10 minute activity</p>
-        </a>
-      </div>
-    </div>
-  </div>
 </div>
