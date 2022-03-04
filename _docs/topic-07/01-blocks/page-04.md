@@ -14,8 +14,7 @@ Up until this point, all elements that we have looked at have had specific struc
   <p>The <code>&lt;div&gt;...&lt;/div&gt;</code> element offers developers a <b>block-level element</b> to group other elements together.</p>
 
   <p>Divs can be <b>singular or nested</b> within each other. This element is heavily used by developers to increase structural clarity and identify element groups. This in turn, increases readability, which is always desired. </p>
-  <br />
-  It's helpful to think of the <code>&lt;div&gt;</code> element as being a container where you can house specific blocks of content that exist on your webpage. It's a way of breaking up your webpage into sections on the code side of things. It makes your code more readable and understandable both for yourself and others you might be working with on a team.
+  <p> It's helpful to think of the <code>&lt;div&gt;</code> element as being a container where you can house specific blocks of content that exist on your webpage. It's a way of breaking up your webpage into sections on the code side of things. It makes your code more readable and understandable both for yourself and others you might be working with on a team. </p>
 </div>
 
 
