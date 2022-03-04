@@ -11,7 +11,7 @@ In addition to the id attribute, the **class attribute** is another attribute th
 <div class="container-row">
   <img src="../img/legos-classes.png" alt="stacked building blocks with similar class names" title="Similar blocks can have the same class!" style="float: right; width:300px; margin-top: 0; " />
 
-  <p>Like the id attribute, the class attribute is an identifier and selector value for HTML elements. The class attribute groups <b>similar</b> types of elements together by using the same name value. This allows for easy styling of these elements with same CSS code.</p>
+  <p>Like the id attribute, the class attribute is a way to single out specific HTML elements. Unlike the id attribute, the class attribute can be used to group a bunch of HTML elements together into the same class. This is useful when you want to assign a specific CSS style rule (such as font type or size) to a specific set of elements and not others.</p>
 </div>
 
 
@@ -19,7 +19,7 @@ In addition to the id attribute, the **class attribute** is another attribute th
 
 
 ## Naming Practices for Classes
-The class attribute follows the same technical naming conventions as the id attribute. As with the id attribute, the class attribute value should be as descriptive as possible about the function or element types groups, while prioritizing both brevity and readability.
+The class attribute follows the same technical naming conventions as the id attribute. As with the id attribute, the class attribute value should be as descriptive as possible. You should make it something easy to remember, prioritizing brevity and readability.
 
 <span class="label label-info">Note</span> Unlike the id attribute which should contain a single unique id value, elements may have <u>more than one class</u> assignment. In this case, spaces separate the class names.
 
