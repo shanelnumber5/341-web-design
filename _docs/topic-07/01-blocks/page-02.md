@@ -6,14 +6,14 @@ permalink: /topic-07/html-ids/
 
 <div class="divider-heading"></div>
 
-There are a number of attributes that are valid for every element. The first that we will discuss is technically called the “global identifier,” but we will refer to it as the **id attribute**.
+There are a number of attributes that you can apply to every element. The first that we will discuss is technically called the “global identifier,” but we will refer to it as the **id attribute**. We learned a little bit about this attribute already last week.
 
 <div class="container-row">
   <img src="../img/legos-ids.png" alt="stacked building blocks with different id names" title="Each block has a unique name!" style="float: right; width: 300px; margin-top: 0;" />
 
-  <p>Following from the idea of identification labels, the “id” attribute takes as its value a string, which should be a <b>unique</b> identifier to that specific element.</p>
+  <p>The “id” attribute takes as its value a string (e.g. its value in the form of letters, rather than numbers), which should be a <b>unique</b> identifier to that specific element.</p>
 
-  <p>To declare the id attribute of an element, use the standard <code>key="value"</code> syntax for HTML elements.</p>
+  <p>To declare the id attribute of an element, use the standard <code>name="value"</code> format for writing attributes. Remember, all attributes have a name (also called a key), followed by an equals sign, and then the value is wrapped in quotation marks afterward. With the id attribute, you get to decide on the value.</p>
 </div>
 
 
@@ -38,7 +38,7 @@ You should get in the habit of adding id attributes to any important HTML elemen
 ## Naming Practices for ids
 In HTML, the following style guide and naming conventions should be used for ids:
 
-- _HTML Value Quotation Marks_ - You should surround your id value using double quotation marks (as opposed to single).
+- _HTML Value Quotation Marks_ - You should surround your id value using quotation marks (as opposed to single apostrophes).
 - _ID Naming_ - Use meaningful id names that reflect the purpose of the element in question, like "contact" rather than "paragraph4".
 - _Acceptable Characters_ - Technically, in HTML5, id names must contain at least one character and no spaces. Which leaves all [UTF-8](https://www.w3schools.com/charsets/ref_html_utf8.asp) characters as options. (i.e. `a-z`, `A-Z`, `0-9`, "`_`", "`-`", "`:;,?!@#$%^&*+`", etc.).
 
