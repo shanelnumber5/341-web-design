@@ -42,8 +42,9 @@ Block elements appear on their own block on a new line. Each of these (unless to
 - Lists `<ol>`, `<ul>`
 - Horizontal rules `<hr>`
 
-In the example above, a new type of block-level element was used (the `<div>`) to section-off a row for each media gallery, which altogether fills the page edge-to-edge.
+So, for example, when you add in a `<h1>` element, it automatically places the text you use within that header on a new line. You don't have to use the `<br />` element.
 
+In the example above with the gallery page, in order to section-off a row for each media gallery (image, audio, video, etc.) a new type of block-level element was used: the `<div>` element.
 
 <h2 id="inline">Inline Elements</h2>
 
@@ -53,4 +54,6 @@ Inline elements are not automatically given additional area on the page outside 
 - Semantic elements `<em>`, `<b>`, etc.
 - Links `<a>`
 
-In the example above, a new type of inline element was used (the `<span>`) to create the slider. Since `<img>` is also an inline element, the illustration can sit on the same block.
+So, for example, two images could be side by side on a webpage. They don't automatically go on a different line.
+
+In the example above, a new type of inline element was used (the `<span>`) to create the slider so you could scroll through the different media. Since `<img>` is also an inline element, the illustration can sit on the same block.
