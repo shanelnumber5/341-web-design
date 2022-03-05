@@ -21,7 +21,7 @@ permalink: /topic-07/media-src-video/
 
 ## How-To:
 
-A cellphone video is a good option, or the Moving Iamge Archive has Creative Commons video that you can download, which conveniently show metadata like size and filetype. Here's an example about <a href="https://archive.org/details/Pluto_Flyby" target="_new">Pluto</a> using Firefox:
+The Moving Image Archive has Creative Commons videoes that you can download, which conveniently show metadata like size and filetype. Here's an example about <a href="https://archive.org/details/Pluto_Flyby" target="_new">Pluto</a> using Firefox:
 
 
 <div style="width: 600px; margin: auto">
@@ -29,7 +29,7 @@ A cellphone video is a good option, or the Moving Iamge Archive has Creative Com
 </div>
 <br><br>
 
-Hovering your cursor over the download link will show you the file's size. Most videos give you the two required options you need: H.264 (`.mp4`) and an open-source type (`.ogg`).
+Scroll down on the iframe above and hover your cursor over the download link. You will see the file's size. Most videos give you the two required options you need: H.264 (`.mp4`) and an open-source type (`.ogg`).
 
 
 <img src="../img/download-video-archive.png" alt="Hovering mouse over download icons" title="Downloading with Archive.org" width="400" />
