@@ -22,7 +22,7 @@ So, in conclusion, this week we will start to wrap up our unit on HTML by lookin
 
 By the end of this Topic, we hope you:
 <ul class="pros-and-cons">
-  <li class="icon-pro">Understand how and why you should use the <code>&lt;div&gt;</code> element to structure the contents of your pages.</li>
+  <li class="icon-pro">Understand how and why you should use the <code>&lt;div&gt;</code> element to structure the content of your pages.</li>
   <li class="icon-pro">Understand how media is placed and accessed on the internet (hosted vs. streaming).</li>
   <li class="icon-pro">Source and reference outside materials directly within your site pages.</li>
 </ul>
