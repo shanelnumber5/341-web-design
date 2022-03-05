@@ -66,4 +66,4 @@ If the content needs to be exclusive to your site, and not available through a t
 
 
 ### Final Decision
-You will need to be aware of all of these options and potential problems and weight all of the requirements of your project to determine the most appropriate route.
+You will need to be aware of all of these options and potential problems and weigh all of the requirements of your project to determine the most appropriate route.
