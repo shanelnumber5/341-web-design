@@ -25,7 +25,7 @@ A major con, however, is that web hosting companies often charge extra if you us
 
 
 ## Third-Party Hosting or Service
-**Third-party options and services** provide you affordable solutions to the potential problem of exhausted bandwidth. It is often preferable and encouraged for you to host your media - particularly audio and video - on sites such as ,<a href="https://youtube.com" target="_new">YouTube</a>, <a href="https://vimeo.com" target="_new">Vimeo</a>,  <a href="https://soundcloud.com/" target="_new">SoundCloud</a>, or <a href="https://bandcamp.com/" target="_new">Bandcamp</a>.
+**Third-party options and services** provide you affordable solutions to the potential problem of exhausted bandwidth. It is often preferable and encouraged for you to host your media - particularly audio and video - on sites such as <a href="https://youtube.com" target="_new">YouTube</a>, <a href="https://vimeo.com" target="_new">Vimeo</a>,  <a href="https://soundcloud.com/" target="_new">SoundCloud</a>, or <a href="https://bandcamp.com/" target="_new">Bandcamp</a>.
 
 <ul style="list-style-type: none">
   <li class="icon-pro">Ideal for <b>video</b> and <b>audio</b> files.</li>
