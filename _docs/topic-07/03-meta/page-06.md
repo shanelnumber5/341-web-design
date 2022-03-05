@@ -6,7 +6,7 @@ permalink: /topic-07/meta-viewport/
 
 <div class="divider-heading"></div>
 
-The **viewport** name type tells a browser how to display the page with respect to size, pixel density, and zoom-capabilities. This meta type is critical for websites are mobile device friendly. _You should start setting the viewports meta type in your documents._
+The **viewport** name type tells a browser how to display the page with respect to size, pixel density, and zoom-capabilities. This meta type is critical for websites are mobile device friendly. _You should always set the viewports meta type in your documents._
 
 The following is the setting you should use for most sites:
 
