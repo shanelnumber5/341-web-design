@@ -16,5 +16,5 @@ The **author** name type allows the developer and content creators to specify th
 
 
 <!-- For example... -->
-<meta name="author" content="Justine Evans">
+<meta name="author" content="Ashley Rezvani">
 ```
