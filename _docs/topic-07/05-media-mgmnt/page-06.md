@@ -52,10 +52,6 @@ As discussed on the previous pages, hosting your own media can take up bandwidth
 ### Converting Files
 Third-party hosting converts files for you, and increases the compatibility of the media across browsers. This is not to say that you can't provide your own alternative media and conversions, but it can take time. As stated, **always test your site across as many browsers and devices as possible to ensure the page is rendering as intended.**
 
-In terms of downloading files from other sources, you likely will not have access to the original file. For example, with audio, to export an .ogg file (whether it's a song you own or have recently sourced), you may need to use an online converter like <a href="https://convertio.co/mp3-ogg/" target="_new">Convertio</a> or <a href="http://www.zamzar.com/convert/mp3-to-ogg/" target="_new">Zamzar</a>. Again, this is only a band-aide; ideally, you're providing your own created audio (music, recordings, sound effects, etc) which you can export as an .ogg legally.
-
-A similar process is needed to create .webm video files. Certain plugins can be downloaded for video editors like Adobe Premiere so that you can export .webm files without a band-aide conversion.
-
 
 ### Content Protection
 You saw how easy it is to download files from `<video>` and `<audio>` elements on the previous page.
