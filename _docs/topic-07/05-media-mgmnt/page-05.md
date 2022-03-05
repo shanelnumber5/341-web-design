@@ -33,7 +33,7 @@ _It is recommend you use a service to host videos. We will not discuss optimizat
 
 A 10-minute YouTube video is often near **100 MB** in size. Full-length movies can reach up-to **25GB** - this is beyond the capacity of most web hosting companies.
 
-If these files from other sources, you likely will not have access to the original file, and therefore will not be able to correctly re-format or compress it. If you do, however, Certain plugins can be downloaded for video editors like Adobe Premiere so that you can export .webm and other filetypes without a band-aid online conversion, through sites like <a href="https://cloudconvert.com/" target="_new">CloudConvert</a>
+If these files come from other sources, you likely will not have access to the original file, and therefore will not be able to correctly re-format or compress it. If you do, however, certain plugins can be downloaded for video editors like Adobe Premiere so that you can export .webm and other filetypes without having to resort to an online conversion site like <a href="https://cloudconvert.com/" target="_new">CloudConvert</a>.
 
 
 <div class="divider-pg"></div>
@@ -46,4 +46,6 @@ A single MP3 song is **approximately 3-4 MB**.
 
 While this is not particularly large, you will need multiple versions of the song for the site, as well as a higher-quality format. This can add up quickly, and it can be a process to accomplish.
 
-For example, with audio, to export an .ogg file (whether it's a song you own or have recently sourced), you may need to use an online converter like <a href="https://convertio.co/mp3-ogg/" target="_new">Convertio</a> or <a href="http://www.zamzar.com/convert/mp3-to-ogg/" target="_new">Zamzar</a>. Again, this is only a band-aide; ideally, you're providing your own created audio (music, recordings, sound effects, etc) which you can export as an .ogg legally.
+For example, with audio, to export an .ogg file (whether it's a song you own or have recently sourced), you may need to use an online converter like <a href="https://convertio.co/mp3-ogg/" target="_new">Convertio</a> or <a href="http://www.zamzar.com/convert/mp3-to-ogg/" target="_new">Zamzar</a>. Again, this is only a band-aid; ideally, you're providing your own created audio (music, recordings, sound effects, etc) which you can export as an .ogg legally.
+
+Most websites that primarily host audio files like <a href=https://soundcloud.com>SoundCloud</a> and <a href="https://bandcamp.com/">Bandcamp</a> also allow you to embed audio files using HTML iframes, so that is an option too.
