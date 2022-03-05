@@ -12,15 +12,17 @@ tags:
   <h2 style="text-align: center;">Media</h2>
 </div>
 
-This topic, you'll begin exploring the basic building blocks of page design, and be continue with multi-part elements, including images, audio/video, and iframes.
+During this topic, we will discuss two elements that will help you block out different sections of your HTML pages. Don't worry if this seems abstract now, because it will make a lot more sense when we start using CSS.
 
-Recall from last week, we talked quite a bit about images and their attributes.  However, as designers, we need to consider how and when to add media, what filetypes to use, their file sizes, and what code element works best for each specific situation.
+We will also review what we learned about metadata.
 
-This week we will start to wrap up our unit on HTML by looking at three groups: additional structural elements, metadata, and media.
+Finally, we will talk about how to add media, what filetypes to use, their file sizes, and what code element works best for each specific situation.
+
+So, in conclusion, this week we will start to wrap up our unit on HTML by looking at three groups: additional structural elements, metadata, and media.
 
 By the end of this Topic, we hope you:
 <ul class="pros-and-cons">
-  <li class="icon-pro">Have experimented with using `&lt;div&gt;`s to structure the contents of your pages.</li>
+  <li class="icon-pro">Understand how and why you should use the <code>&lt;div&gt;</code> element to structure the contents of your pages.</li>
   <li class="icon-pro">Understand how media is placed and accessed on the internet (hosted vs. streaming).</li>
   <li class="icon-pro">Source and reference outside materials directly within your site pages.</li>
 </ul>
