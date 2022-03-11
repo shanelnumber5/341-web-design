@@ -37,7 +37,7 @@ You can easily generate a pattern on your background by adding a small image (le
 ```html
   <body style="background-image: url("#");">
 ```
-**Note** Keep in mind that the image can be something on your site or something external. Just a relative link if it's on your site use a absolute link if it's external (i.e. should start with http or https).
+Keep in mind that the image can be something on your site or something external. Use a relative URL if you have the image in your image subdirectory. Use an absolute URL if you are linking to an external source (i.e. should start with http or https).
 
 <div class="external-embed">
   <p data-height="600" data-theme-id="30567" data-slug-hash="gOMppWr" data-default-tab="html,result" data-user="retrog4m3r" data-pen-title="div padding" class="codepen"></p>
@@ -47,7 +47,7 @@ You can easily generate a pattern on your background by adding a small image (le
 
 
 ### Example
-See how you can add pizazz ( I know, I know, it's busy!) with **background-color** and **background-image** styling!
+See how you can add pizazz (I know, I know, it's busy!) with **background-color** and **background-image** styling!
 
 
 <div class="external-embed">
