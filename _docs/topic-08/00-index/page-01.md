@@ -22,8 +22,11 @@ This week, using our knowledge of HTML and GitHub, we will create a 3-page websi
 4. Embedded media (video, audio, and/or Google Maps).
 5. Clean, legible coding.
 
+<br/>
+
 This week is our last focusing on HTML. After spring break, we will be diving into CSS. I like to think of this week as a bridge between the two, and we will introduce some preliminary CSS concepts, such as how to integrate HTML and CSS.
 
+<br/>
 
 Objectives of this topic are as follows.
 <ul class="pros-and-cons">
