@@ -8,9 +8,9 @@ permalink: /topic-08/basic-styling-divs/
 
 Divs are _block-level_ elements, meaning they fill the page edge-to-edge. If this isn't necessarily what we want, we can easily force changes to the div itself, and how it relates to the elements inside.
 
-What if we want to affect just one `div` tag and leave the others the same?
+What if we want to affect just one `<div>` element and not any others? We can do this with **inline styling**. We can add inline style rules to our HTML elements by adding the `style=` attribute to the inside of an element's opening tag. Then, we specify the style rule as the attribute value, like this: `<div style="font-size: 14px">`
 
-Let's look at how this might work.
+Let's look at more examples of how this works.
 
 ## Changing Width
 You can easily change the width of a div from 100% using the **width property**. Width values can be in percentages (changing) or pixels (unchanging). For example:
@@ -30,7 +30,7 @@ You can easily change the width of a div from 100% using the **width property**.
 </div>
 
 ## Centering on the Page
-Have a div less than full-page and want it placed in the middle? Add the **margin property**, set to `auto` (`margin: auto`).
+Have a div less than full-page and want it placed in the middle? Add the **margin property**, set to `auto` (`margin: auto`). We did this last week in our assignment!
 
 <div class="code-heading">
   <span class="html">HTML</span>
@@ -60,7 +60,7 @@ Text inside of a div will set along the edges. To override this and give the tex
 
 <div class="divider-pg"></div>
 
-Finally, what if we want to use multiple styles in the same style attribute?
+Finally, what if we want to use multiple styles in the same style attribute? We can absolutely do this, but we must separate each rule with a `;` again. So, for example: `<div style="width: 50%; margin: auto; padding: 20px;">`
 
 ### Example
 This final example, puts all of it together using **width**, **margin: auto**, and **padding**.
