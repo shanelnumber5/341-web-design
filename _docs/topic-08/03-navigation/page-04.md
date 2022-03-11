@@ -6,7 +6,7 @@ permalink: /topic-08/basic-nav-section/
 
 <div class="divider-heading"></div>
 
-When pages are long, or visitors are expected to interested in specific topics, you can section the page using `<div>`s with unique `id`s. A page can then include its own navigation with links to those unique sections.
+When pages are long, or visitors are expected to interested in specific topics, you can section the page using `<div>`s with unique `id`s. A page can then include its own internal navigation with links to those unique sections. A good example of this is <a href="https://www.wikipedia.org/ target="_blank">Wikipedia</a>, which always lists out the page contents for users.
 
 <div class="external-embed">
   <p data-height="600" data-theme-id="30567" data-slug-hash="mdEJVJG" data-default-tab="html,result" data-user="retrog4m3r" data-pen-title="HTML Nav Element, Page Navigation" class="codepen"></p>
