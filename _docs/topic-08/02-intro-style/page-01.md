@@ -26,7 +26,9 @@ All sites utilize styling, whether its provided by the browser, or created by th
 
 <span class="label label-danger">Important</span> So far, embedded styles is the only technique we have used.  We will introduce inline styles this week and look at external stylesheets in the coming weeks.  This week's conversation on style is not meant to be comprehensive, but a primer to what is to come.  We will get more details on CSS when we come back after spring break!
 
-For the most part, this is the same across all pages, but not always. We can control _page styling_ by selecting elements and applying styling properties (like color and placement) to them.
+<br/>
+
+We can control _page styling_ by selecting elements and applying styling properties (like color and placement) to them.
 
 This week, we will focus on applying a style to all elements or to a specific eleement using the style attribute.
 
