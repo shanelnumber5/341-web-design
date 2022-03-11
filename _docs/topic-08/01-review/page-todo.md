@@ -12,7 +12,7 @@ categories: uncategorized
       <div class="list-group">
         <a href="https://www.instructables.com/" target="_blank" class="list-group-item">
           <img class="icon-hw" src="../img/hw-icon-instructables.png" />
-          <h4 class="list-group-item-heading">Explore Some “Instructables”</h4>
+          <h4 class="list-group-item-heading">Explore Some “Instructables” for Inspiration</h4>
           <div class="divider-hw"></div>
           <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 5 minute activity</p>
         </a>
