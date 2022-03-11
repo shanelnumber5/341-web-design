@@ -67,7 +67,7 @@ We will get into using the method later on, but you should consider the facts of
 
 ### Example 1
 
-We can apply styles to all elements on a page by specifying the element in the style tag.
+We can apply styles to all elements on a page by specifying the element in the style tag. Note that at the end of each style rule, we must add a `;` to indicate that we are finished writing out the rule.
 
 For example, we can say we want _all_ divisions in our site to have black borders, a font of Tahoma and a size of 12 px.
 - element selector: `div` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(“Do _____ to ALL divs on the page.”)
