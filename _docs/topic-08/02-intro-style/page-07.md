@@ -40,7 +40,6 @@ li {
 
 ## Aligning Horizontally
 
-<p><span class="remember-text">Remember?</span><br/>
 Lists and list items are <a href="../../topic-05/extra-markup#block-level" target="_blank">block-level elements</a>, meaning each will get a full-page line all to themselves.</p>
 
 
@@ -62,7 +61,7 @@ Lists and list items are <a href="../../topic-05/extra-markup#block-level" targe
 ### Example
 See how you can make a list stand-out by changing its **background color**, text **color**, and item **display**!
 
-**Note** In the style element, the `ul` and the `li` are put together so that they both use the _display:inline_ style.  Otherwise, the list items won't be horizontal.
+In the style element, the `ul` and the `li` are put together so that they both use the _display:inline_ style.  Otherwise, the list items won't be horizontal.
 
 <div class="external-embed">
   <p data-height="600" data-theme-id="30567" data-slug-hash="NWrqqVy" data-default-tab="html,result" data-user="retrog4m3r" data-pen-title="Basic HTML List Stying" class="codepen"></p>
