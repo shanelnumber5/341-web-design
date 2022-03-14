@@ -23,7 +23,7 @@ When we start to mix the ratios of red, green, and blue, we come up with the res
 
 <br />
 
-Likewise, to get the complimentary colors for green and blue, which are magenta and yellow, respectively, we boost the values of the two other colors.
+Likewise, to get the complementary colors for green and blue, which are magenta and yellow, respectively, we boost the values of the two other colors.
 
 - Name: magenta;
 - RGB: rgb(255, 0, 255);
