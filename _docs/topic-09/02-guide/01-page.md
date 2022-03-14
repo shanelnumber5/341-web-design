@@ -6,7 +6,7 @@ permalink: /topic-09/where-style/
 
 <div class="divider-heading"></div>
 
-There are three general ways to specify CSS style rules:
+There are three general ways to specify CSS style rules. We have already covered the first two:
 
 1. **Inline** styling - as an attribute within each element.
 2. **Embedded** styling - within the CSS Style element in an HTML document. 
