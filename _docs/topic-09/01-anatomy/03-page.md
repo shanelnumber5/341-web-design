@@ -20,6 +20,7 @@ The **property** is the aspect about the element that one wants to change, i.e. 
 
 The **value** defines how to change a property; for example, 'red', 'Arial', etc.
 
+### Format
 <div class="code-heading">
   <span class="css">CSS</span>
 </div>
@@ -27,6 +28,17 @@ The **value** defines how to change a property; for example, 'red', 'Arial', etc
 p {
     property-1: value;
     property-2: value;
+}
+```
+
+### Example
+<div class="code-heading">
+  <span class="css">CSS</span>
+</div>
+```css
+p {
+    color: red;
+    font-family: Arial;
 }
 ```
 
