@@ -13,7 +13,7 @@ permalink: /topic-09/multi-selectors/
 
 ### Multiple Selectors with Different Rules
 
-When applying different rules to elements, simply write another selector/declaration set. The closing **curly bracket** (`}`) tells the browser the rule is finished.
+You can add more than one style rule to the same element. All you need to do is finish each selector/declaration set with a semicolon `;` to let your browser know you have finished with this rule and to move onto the next one. Once you have finished adding all of your style rules, you add the closing **curly bracket** (`}`) to tell your browser you have finished adding style rules to that element. **All of an element's style rules must go inside curly brackets.**
 
 <div class="code-heading">
   <span class="css">CSS</span>
