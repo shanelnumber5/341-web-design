@@ -14,11 +14,11 @@ When we start to mix the ratios of red, green, and blue, we come up with the res
 
 <div width="50%" height="20px"
     style="background-color:#00ffff;color:#ff0000;padding:10px;font-size:1.25em;">
-    Red compliments cyan.
+    Red complements cyan.
 </div>
 <div width="50%" height="20px"
     style="background-color:#ff0000;color:#00ffff;padding:10px;font-size:1.25em;">
-    Cyan compliments red.
+    Cyan complements red.
 </div>
 
 <br />
@@ -31,11 +31,11 @@ Likewise, to get the complimentary colors for green and blue, which are magenta 
 
 <div width="50%" height="20px"
     style="background-color:#ff00ff;color:#00ff00;padding:10px;font-size:1.25em;">
-    Green compliments magenta.
+    Green complements magenta.
 </div>
 <div width="50%" height="20px"
     style="background-color:#00ff00;color:#ff00ff;padding:10px;font-size:1.25em;">
-    Magenta compliments green.
+    Magenta complements green.
 </div>
 
 <br />
@@ -46,11 +46,11 @@ Likewise, to get the complimentary colors for green and blue, which are magenta 
 
 <div width="50%" height="20px"
     style="background-color:#ffff00;color:#0000ff;padding:10px;font-size:1.25em;">
-    Blue compliments yellow.
+    Blue complements yellow.
 </div>
 <div width="50%" height="20px"
     style="background-color:#0000ff;color:#ffff00;padding:10px;font-size:1.25em;">
-    Yellow compliments blue.
+    Yellow complements blue.
 </div>
 
 <br />
