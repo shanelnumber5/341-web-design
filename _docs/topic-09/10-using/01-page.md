@@ -15,7 +15,7 @@ The background color property takes a color as its value. This can be a hex (i.e
 
 ### Background Color of the Entire Page
 
-There easiest way to set the background color for a page is through the <code>&lt;body&gt;</code> element.</p>
+There easiest way to set the background color for a page is through the <code>&lt;body&gt;</code> element.
 
 
 <div class="codepen-embed">
@@ -35,7 +35,7 @@ There easiest way to set the background color for a page is through the <code>&l
 
 ### Inner Elements
 
-When setting the background color of inner elements, you should do choose colors that encourage readability, and complement the main color schemes of the site.
+When setting the background color of inner elements, you should choose colors that encourage readability, and complement the main color schemes of the site.
 
 <div class="codepen-embed">
   <p data-height="400" data-theme-id="30567" data-slug-hash="MWeyRZN" data-default-tab="css,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="[Topic-07] Background Color" class="codepen"></p>
