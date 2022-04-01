@@ -10,7 +10,7 @@ Licensing has a lot to do with how you'll select your fonts. In no way is every 
 
 <img src="../img/web-safe-font-venn.png" style=" margin: 20px auto; width: 400px;" alt="venn diagram of web-safe fonts for Windows 7 and MacOS X" title="Window 7 vs MacOS X Available Fonts"/>
 
-In other words, "Calabri" will appear for Windows users accessing the site, but perhaps not for Mac users. The browser will then request a fallback or default font to render for those users, which may or may not look as the dev intended.
+In other words, "Calibri" will appear for Windows users accessing the site, but perhaps not for Mac users. The browser will then request a fallback or default font to render for those users, which may or may not look as the dev intended.
 
 <div class="codepen-embed">
   <ul class="nav nav-tabs">
@@ -35,12 +35,12 @@ In other words, "Calabri" will appear for Windows users accessing the site, but 
         <img src="../img/system-font-ex-maybe.svg" style="margin: auto;" />
         <p style="margin-top: 10px;">Font: “<a href="http://fontpro.com/maybe-maybe-not-font-429" target="_blank">Maybe Maybe Not</a>”</p>
       </div>
-      <p><span class="label label-info">NOTE:</span> If you try to select one the fake brand names above, you'll see that your cursor grabs an image, and cannot highlight text (because there is none to do so). This is why text-images should be used sparingly.</p>
+      <p><span class="label label-info">NOTE:</span> If you try to select one of the fake brand names above, you'll see that your cursor grabs an image, and cannot highlight text (because there is none to do so). This is why text-images should be used sparingly.</p>
     </div>
 
     <div class="tab-pane fade" id="web">
       <p>Web fonts are custom fonts hosted on a server. They do not have to be available on the user's device to appear, but require certain elements to get called up correctly.</p>
-      <p>65% of websites currently use web fonts. These fonts are optimized for performing on the web, but are not full-proof. You should take into consideration browser compatibility, rendering speeds, and availability when selecting these fonts.</p>
+      <p>65% of websites currently use web fonts. These fonts are optimized for performing on the web, but are not foolproof. You should take into consideration browser compatibility, rendering speeds, and availability when selecting these fonts.</p>
       <p>This site uses the web fonts:</p>
         <ul>
           <li><span style="font-family: 'Ubuntu,' sans-serif; font-size:1.25em;"><a href="https://design.ubuntu.com/font/" target="_blank">Ubuntu</a></span></li>
