@@ -12,7 +12,7 @@ tags:
   <h2 style="text-align: center;">CSS Fonts, Decorating and Alignment</h2>
 </div>
 
-Moving on with CSS, this week will cover text and fonts. Despite being a very graphic art, the success of a good web design is usually heavily dependent on how it treats its use of written elements. To study this, we will look at:
+Moving on with CSS, this week will cover text and fonts. Despite being a very graphic art, the success of a website is usually heavily dependent on how it treats its use of written elements. To study this, we will look at:
 
 - Typography
 - Choosing Fonts
