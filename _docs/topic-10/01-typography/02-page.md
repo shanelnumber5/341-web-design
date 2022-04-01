@@ -58,9 +58,9 @@ There are three general types of fonts that can be used in basic classification:
         <div class="col-lg-4">
           <div class="bs-component">
             <div class="list-group">
-              <a href="https://www.metmuseum.org/exhibitions/listings/2018/visitors-to-versailles" target="_blank" class="list-group-item">
+              <a href="https://xd.adobe.com/ideas/principles/web-design/best-modern-fonts-for-websites/" target="_blank" class="list-group-item">
                 <img src="../img/font-ex-serif-met.jpg" style="max-height: 100px; margin: auto; margin-bottom: 10px;" />
-                <h4 class="list-group-item-heading">The Met</h4>
+                <h4 class="list-group-item-heading">Adobe Xd</h4>
                 <hr>
                 <p class="list-group-item-text"><i class="fa fa-link" aria-hidden="true"></i> Site Link</p>
               </a>
