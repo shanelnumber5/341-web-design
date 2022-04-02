@@ -6,7 +6,9 @@ permalink: /topic-10/font-family/
 
 <div class="divider-heading"></div>
 
-To specify a font, use the `font-family: ` property. At a minimum, every browser will be able to render _something_ when passed one of three default values:
+To specify a font, use the `font-family: ` property. We have already used this CSS property to change the typeface (fonts) of our webpages. However, let's dive a little deeper into what this property can do!
+
+At a minimum, every browser will be able to render _something_ when passed one of three default values:
 
 - `sans-serif`
 - `serif`
