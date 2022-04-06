@@ -6,7 +6,7 @@ permalink: /topic-11/display-properties/
 
 <div class="divider-heading"></div>
 
-The CSS `display:` property allows developers to explicitly specify and/or change the display properties for any element, including the option to "hide" an element. This greatly increases the developers ability to create layouts that support the presentation of content in a web browser.
+The CSS `display:` property allows developers to explicitly specify and/or change the display properties for any element, including the option to "hide" an element. This greatly increases a developer's ability to create layouts that support the presentation of content in a web browser.
 
 The `display:` property is called on the actual element it is being applied to (as opposed to a parent element holding child elements).
 
