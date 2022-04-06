@@ -6,11 +6,11 @@ permalink: /topic-11/border-properties/
 
 <div class="divider-heading"></div>
 
-Like margin and padding (which you'll learn about soon), borders help define the amount of space a box or element takes up, as well as its relationship to other boxes.
+Like margin and padding (which you'll learn about in more detail soon), borders help define the amount of space a box or element takes up, as well as its relationship to other boxes.
 
 _Unlike_ margin and padding, however, the border portion of the box can be separately colored, and has multiple style options. Border is more of a visual styling tool, than a space management tool.
 
-There are three properties that make up a border:
+Again, there are three properties that make up a border:
 - Width
 - Style
 - Color
