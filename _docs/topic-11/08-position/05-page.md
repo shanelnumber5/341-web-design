@@ -8,7 +8,7 @@ permalink: /topic-11/position-fixed/
 
 Setting an element to "fixed position" (`position: fixed;`) is similar to using "absolute position" in that the position is in relation to the browser, instead of any parent elements. Unlike absolute position though, fixed position is in relation to the "viewable" portion of the browser. This means, that even when you scroll, an element set to "fixed" will remain viewable in the browser window.
 
-This property can be used for "sticky" headers or other elements that you want always visible to the user.
+This property can be used for your persistent navigation bars that always remain at the top of the page, or other elements that you want always visible to the user.
 
 Notice in the following example, that when you scroll, the "fixed element" stays put.
 
