@@ -8,7 +8,7 @@ permalink: /topic-11/box-sizing/
 
 <img src="../img/box-model-content.gif" alt="drawing basic boxes" style="width: 350px; margin: 0 auto 30px;" />
 
-There are a number of ways to control the **size** of boxes. The first two properties you will get to know well are aptly named `width: ` and `height: `.
+There are a number of ways to control the **size** of boxes. The first two properties you already know well are aptly named `width: ` and `height: `.
 
 As with properties affecting typography, there are ways of setting the size of boxes using both absolute and relative measurement values.
 
@@ -47,7 +47,7 @@ That being said, there are times when using pixels is appropriate.
 }
 ```
 
-Another way of specifying size of boxes is through percentages. Percentages work by being the percent specified of the _parent_ element.
+Another way of specifying size of boxes is through percentages. Percentages are relational to the percent specified in the _parent_ element.
 
 If the parent element is `<body>...</body>` then the elements width can be set using a percentage, and it will stay in relation to the size of the page. However, the height must be set using an absolute value still.
 
@@ -74,7 +74,7 @@ The 'inner-box' is set to be 75% of the width, and 50% of the height of the 'par
 
 Now that our boxes can resize in relation to the screen using _relative_ values, we will have to be careful about setting absolute sizes, but it can be done in certain contexts.
 
-The following is the same example as the previous <u>except</u> the height of the 'parent-container' is set to 300px. There is also more text. Notice that when you make your browser window narrow, the text spills out of the element. _This is plain example of bad web design._
+The following is the same example as the previous <u>except</u> the height of the 'parent-container' is set to 300px. There is also more text. Notice that when you make your browser window narrow, the text spills out of the element. _This is an example of bad web design._
 
 <div class="codepen-embed">
   <p data-height="600" data-theme-id="30567" data-slug-hash="MWeVNEv" data-default-tab="css,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="Box Models, Pt. 3" class="codepen"></p>
