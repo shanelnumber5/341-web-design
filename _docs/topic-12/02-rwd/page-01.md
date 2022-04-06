@@ -27,6 +27,7 @@ There are many ways of developing a responsive site. There is not necessarily a 
 </div>
 
 ## Responsive Contact Us form
+If you're interested in seeing some RWD at work, scrub through the video below! (It's pretty long, so don't feel like you have to watch the whole thing!)
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/lcfcQdrT9gM" frameborder="0" allowfullscreen></iframe>
