@@ -16,8 +16,7 @@ Let’s go into:
 1. Defining mobile-first design
 2. Why is mobile-first design important?
 3. The connection between mobile-first design and accessibility
-4. Mobile-first design best practices, plus examples
-5. What is mobile-first design?
+4. 3 tips for mobile-first design
 
 **Mobile-first design** is a design philosophy that aims to create better experiences for users by starting the design process from the smallest of screens: mobile. Designing and prototyping your websites for mobile devices first helps you ensure that your users’ experience is seamless on any device.
 
@@ -52,12 +51,12 @@ And if we’re talking about experience, mobile-first design offers a wealth of 
 
 **The connection between mobile-first design and accessibility**
 
-Here are a few ways mobile-first design and accessible design overlap:
+Here are a two ways mobile-first design and accessible design overlap:
 
-Small-screen friendly. Mobile-first design pushes you to make your digital products more readable on smaller screens—and therefore more accessible to people who might be hard of seeing. And when your designs help people with limited vision, they’ll also help everyone else. This is classic, “Rising tide raises all ships.”
-Hierarchy of information. As we’ll go into later, mobile-first means content first. That means, putting your most important content assets (i.e. the ones your users want) as soon as possible on your page. This also makes your content accessible to anyone with cognitive disabilities.
+- **Small-screen friendly.** Mobile-first design pushes you to make your digital products more readable on smaller screens—and therefore more accessible to people who might be hard of seeing. When your designs help people with limited vision, they’ll also help everyone else! This is the classic, _rising tides raise all ships_.
+- **Hierarchy of information.** Mobile-first usually means content first. Why? When you are designing for a limited amount of space, you want to make sure you're putting your most important important content assets (i.e. the ones your users want) as soon as possible on your page. This also makes your content accessible to people with cognitive disabilities.
 
-**3 tips for good mobile-first design**
+## 3 Tips for Good Mobile-First Design
 
 ### Tip #1: Mobile-first = Content-first
 
