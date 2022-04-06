@@ -6,7 +6,7 @@ permalink: /topic-11/z-index-example/
 
 <div class="divider-heading"></div>
 
-The following example comes from an [article on the Mozilla Developers Network](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index/Adding_z-index).
+The following example comes from an <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index/Adding_z-index" target="_blank">article on the Mozilla Developers Network</a>.
 
 Notice a few things about this example.
 
