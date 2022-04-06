@@ -9,7 +9,7 @@ tags:
 <div class="divider-heading"></div>
 
 
-Tap targets are vital when it comes to using our mobile devices.  Creating responsive web sites are no different.  We must take care in creating websites that are still useful when they resize.
+Tap targets refer to any areas on a mobile / touchscreen device that your user will interact with, such as buttons, links, or even ads. Designing tap targets to be easy to use and functional is vital when it comes to using our mobile devices. This means creating websites that have buttons and links that can be used even when resized for a touchscreen smartphone or tablet.
 
 
 ## Tap Targets
