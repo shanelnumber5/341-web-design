@@ -14,8 +14,9 @@ When we were learning about <a href="./../box-sizing#combine-size" target="_blan
 2. Resize our elements so they fit the content.
 3. Tell the browser what to do with _extra_ content.
 
-In the latter option, we will use the "overflow" CSS property (`overflow: `). This property takes one of three values:
+In the latter option, we will use the "overflow" CSS property (`overflow: `). This property takes one of four values:
 
-- `visible`; this is the default.
+- `visible`; this is the default. Your content will render outside of its block.
 - `hidden`; overflow content will be hidden.
-- `scroll`; scroll bars will be provided for overflow content.
+- `scroll`; scroll bars will be provided for overflow content, even if there is no overflow.
+- `auto`; scroll bars are only added/visible when necessary.
