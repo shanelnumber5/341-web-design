@@ -14,7 +14,7 @@ You can create a border in one lump property (known as the "shorthand"), or each
 
 ### Border Shorthand Property
 
-For borders, the property to define the entire border is simply `border: `. As its declaration, it expects three values, in order: width (specified in pixels), style, color.
+For borders, the property to define the entire border is simply `border: `. As its declaration, it expects three values, in order: width, style, color.
 
 <div class="code-heading">
   <span class="css">CSS</span>
