@@ -8,6 +8,8 @@ permalink: /topic-11/position-example/
 
 Using the fixed position also allows you to develop headers or menu bars that are "sticky". Study the following example for how to create a "sticky header and menu".
 
+It is standard to wrap your navigation bar elements in the `<header>` element.
+
 Notice, that when you scroll the below example, the header stays in place. Also notice, that in order to accomplish this look, we have to move the `.main-content` container down, so that it does not appear behind the header.
 
 <div class="codepen-embed">
