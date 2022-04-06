@@ -8,13 +8,13 @@ permalink: /topic-11/border-intro/
 
 <img src="../img/box-model-border.gif" alt="borders being drawn" style="width: 350px; margin: 0 auto 30px;" />
 
-The first thing we'll look at in the box model are **borders.** You are already familiar with borders through your past assignments, but there's a lot we haven't explored yet.
+The next thing we'll look at in the box model are **borders.** You are already familiar with borders through your past assignments, but there's a lot we haven't explored yet.
 
 You can create a border in one lump property (known as the "shorthand"), or each side and property individually.
 
 ### Border Shorthand Property
 
-For borders, the property to define the entire border is simply `border: `. As its declaration, it expects three values, in order: width, style, color.
+For borders, the property to define the entire border is simply `border: `. As its declaration, it expects three values, in order: width (specified in pixels), style, color.
 
 <div class="code-heading">
   <span class="css">CSS</span>
