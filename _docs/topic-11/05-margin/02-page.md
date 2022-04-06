@@ -7,7 +7,7 @@ permalink: /topic-11/margin-example/
 <div class="divider-heading"></div>
 
 
-In the following example, look at the two containers and how the are positioned based on the margin settings.
+In the following example, look at the two containers and how they are positioned based on the margin settings.
 
 <div class="codepen-embed">
   <p data-height="600" data-theme-id="30567" data-slug-hash="NWrYQVp" data-default-tab="css,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="Margin, Pt. 1" class="codepen"></p>
@@ -26,7 +26,7 @@ In the next example, notice how the `.child-container-03`, has both margin and p
 
 ### Using Margin to Set Center Alignment
 
-The margin property is also used to center align element, horizontally, in there parent elements. This can be accomplished by setting the properties value to `auto`, or by setting both `margin-left: auto;` & `margin-right: auto;`.
+The margin property is also used to center align elements, horizontally, in their parent elements. This can be accomplished by setting the properties value to `auto`, or by setting both `margin-left: auto;` and `margin-right: auto;`.
 
 <div class="codepen-embed">
   <p data-height="400" data-theme-id="30567" data-slug-hash="QWEmeXM" data-default-tab="css,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="Margin, Pt. 3" class="codepen"></p>
