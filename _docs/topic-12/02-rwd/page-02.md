@@ -80,13 +80,7 @@ According to a study by the user design research firm Nielsen/Norman Group, hidd
 
 Not only that, but it also increases the time it takes to use the navigation by an average of two seconds.
 
-Unfortunately, offering all of your possible links at once is unfeasible. Luckily, there’s a way you can get the best of both worlds.
-
-Joe Toscano, an experience design consultant, recommends using combo navigation.
-
-Toscano writes,
-
-“Combo navigation allows the user to see the options they need the most and makes the rest accessible in a hamburger menu or something similar. […] The site’s content is laid out so well that I don’t need nav buttons. I can scroll the page and get where I want very easily. 
+Unfortunately, offering all of your possible links at once is unfeasible. Luckily, there are alternatives to a hamburger menu. <a href="https://www.webdesignerdepot.com/2017/08/5-smart-alternatives-to-the-hamburger-menu/" target="_blank">Here's an article</a> that outlines five different alternatives to the classic hamburger menu.
 
 ### Tip #3: KISS (Keep it simple, stupid)
 
