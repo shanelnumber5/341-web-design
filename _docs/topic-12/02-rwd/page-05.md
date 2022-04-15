@@ -123,37 +123,23 @@ Next, we need to think about how we can split our page into <i>rows</i>, too. We
 }
 ```
 
-Using the pseudoselector of `::after` here allows us to add styling rules that will happen <i>after</i> a row finishes, meaning we could add whitespace if we wanted. Here, we are adding the `content` property, which allows us to add content like text if we wish. It's left empty in this case. The `clear` property is related to the `float` property, and dictates how content like images will flow around this element. Finally, displaying the row as a table will help center our content on the page.
+Using the pseudoselector of `::after` here allows us to add styling rules that will happen <i>after</i> a row finishes. Here, we are adding the `content` property, which allows us to automatically add content after the row finishes. It's left empty in this case, to give us a paragraph break and start a new row of content. The `clear` property is related to the `float` property, and dictates how content like images will flow around this element. Finally, displaying the row as a table will help center our content on the page.
 
-```html
-<div class="row">
-  <div class="col-1">
-    <div class="menu-item display-inline-block">
-        Home
-    </div>
-    <div class="menu-item display-inline-block">
-        Services
-    </div>
-    <div class="menu-item display-inline-block">
-        About
-    </div>
-    <div class="menu-item display-inline-block">
-        Contact
-    </div>
-  </div>
-
-  <div class="col-11">
-    <h1>Main Information</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  </div>
-</div>
-```
-
-In this example, let's look at shrinking the size of the menu and then letting the rest of the content fill the page.  If the screen is too small, then it will wrap to the next line instead of crowding the menu.
+See the results below:
 
 <div class="codepen-embed">
-  <p data-height="600" data-theme-id="30567" data-slug-hash="ExyeMKO" data-default-tab="css,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="Grid-View 12 Column" class="codepen"></p>
+  <p data-height="600" data-theme-id="30567" data-slug-hash="dyJQGZB" data-default-tab="css,result" data-user="mart341" data-embed-version="2" data-pen-title="Grid-View 12 Columns" class="codepen"></p>
 </div>
+
+In the CSS stylesheet, the following rule was added to resize the images, too: 
+
+```css
+div > img {
+  max-width: 100%;
+}
+```
+
+The selector being used here is called the <a href="https://www.w3schools.com/cssref/sel_element_gt.asp" target="_blank">element>element</a> selector. In our case, it selects all `img` elements that are children of a `div` element. Then, we set the `max-width:` of these `img` elements to be 100% of their parent `div` container.
 
 <a href="https://www.w3schools.com/css/css_rwd_grid.asp" target="_new"><em>Reference</em></a>
 
