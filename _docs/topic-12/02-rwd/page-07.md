@@ -10,6 +10,9 @@ tags:
 
 ## Responsive Images
 
+It's important for our images to be responsive and resize according to the size of our user's browser window. There are many different routes you can take when you are wanting to resize your images.
+
+
 ### width property
 
 If the width property is set to a percentage and the height is set to "auto", the image will be responsive and scale up and down.
@@ -21,7 +24,7 @@ img {
 }
 ```
 
-**Note** the image can be scaled up to be larger than its original size. A better solution, in many cases, will be to use the max-width property instead.
+**Note:** the image can be scaled up to be larger than its original size. A better solution, in many cases, will be to use the max-width property instead.
 
 ### max-width property
 
@@ -34,7 +37,7 @@ img {
 }
 ```
 
-Experiment with `width` and `max-width`
+Experiment with `width` and `max-width` below:
 
 <div class="codepen-embed">
   <p data-height="600" data-theme-id="30567" data-slug-hash="JjKazJq" data-default-tab="css,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="Media Queries" class="codepen"></p>
@@ -118,7 +121,7 @@ body {
 </div>
 
 
-Another option is the choose the device width rather than the width.
+Another option is to choose the device width rather than the width of the browser window.
 
 ```css
 /* For devices 600px and larger: */
