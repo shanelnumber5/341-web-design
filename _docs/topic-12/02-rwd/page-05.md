@@ -125,13 +125,7 @@ Next, we need to think about how we can split our page into <i>rows</i>, too. We
 
 Using the pseudoselector of `::after` here allows us to add styling rules that will happen <i>after</i> a row finishes. Here, we are adding the `content` property, which allows us to automatically add content after the row finishes. It's left empty in this case, to give us a paragraph break and start a new row of content. The `clear` property is related to the `float` property, and dictates how content like images will flow around this element. Finally, displaying the row as a table will help center our content on the page.
 
-See the results below:
-
-<div class="codepen-embed">
-  <p data-height="600" data-theme-id="30567" data-slug-hash="dyJQGZB" data-default-tab="css,result" data-user="mart341" data-embed-version="2" data-pen-title="Grid-View 12 Columns" class="codepen"></p>
-</div>
-
-In the CSS stylesheet, the following rule was added to resize the images, too: 
+In the CSS stylesheet, the following rule can be added to resize the images, too: 
 
 ```css
 div > img {
@@ -140,6 +134,14 @@ div > img {
 ```
 
 The selector being used here is called the <a href="https://www.w3schools.com/cssref/sel_element_gt.asp" target="_blank">element>element</a> selector. In our case, it selects all `img` elements that are children of a `div` element. Then, we set the `max-width:` of these `img` elements to be 100% of their parent `div` container.
+
+See the results below:
+
+<div class="codepen-embed">
+  <p data-height="600" data-theme-id="30567" data-slug-hash="dyJQGZB" data-default-tab="css,result" data-user="mart341" data-embed-version="2" data-pen-title="Grid-View 12 Columns" class="codepen"></p>
+</div>
+
+Hmm... but this still doesn't look quite right. Some of our content is being cut off, or overlapping. Thankfully, there is something we can do to address this. Onwards!
 
 <a href="https://www.w3schools.com/css/css_rwd_grid.asp" target="_new"><em>Reference</em></a>
 
