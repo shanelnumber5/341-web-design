@@ -10,7 +10,7 @@ tags:
 
 ## Building a Responsive Grid-View
 
-Lets start building a responsive grid-view.
+Let's start building a responsive grid-view.
 
 First ensure that all HTML elements have the box-sizing property set to border-box. This makes sure that the padding and border are included in the total width and height of the elements.
 
@@ -22,7 +22,7 @@ Add the following code in your CSS:
   }
 ```
 
-The following example shows a simple responsive web page, with two columns:
+The following example shows a simple responsive web page, with two columns. The `menu` class is always going to take up 25% of the screen, and the `main` class is always going to take up 75% of the screen, no matter how the page is resized by the user.
 
 ```css
 .menu {
@@ -44,10 +44,13 @@ The following example shows a simple responsive web page, with two columns:
     color: #333;
 }
 
-p{
+p {
   text-align: justify;
 }
 ```
+
+
+Here is the corresponding HTML:
 
 ```html
 <div class="menu">
@@ -75,11 +78,11 @@ p{
   <p data-height="600" data-theme-id="30567" data-slug-hash="OJXoqPN" data-default-tab="css,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="Grid-View 2 Column" class="codepen"></p>
 </div>
 
-What if we want to use a responsive grid-view with 12 columns, to have more control over the web page.
+What if we want to use a responsive grid-view with 12 columns, to have more control over the web page?
 
-First calculate the percentage for one column: 100% / 12 columns = 8.33%.
+First, we need to calculate the percentage for one column: 100% / 12 columns = 8.33%.
 
-Then make one class for each of the 12 columns, class="col-" and a number defining how many columns there are:
+Then, we need to make one class for each of the 12 columns, (`class="col-"`) and add a number so we know which one is which:
 
 
 ```css
@@ -97,7 +100,7 @@ Then make one class for each of the 12 columns, class="col-" and a number defini
 .col-12 {width: 100%;}
 ```
 
-We should also apply the following to all the classes
+We should also apply the following to all the classes:
 
 ```css
 [class*="col-"] {
@@ -105,6 +108,12 @@ We should also apply the following to all the classes
   padding: 15px;
 }
 ```
+
+The strange selector, `[class*="col-"`, we are using here is a helpful one: it is telling our browser to select all class attributes that has a value that is `col-`. Of course, each of our `col-` classes also have a number added afterward, but so long as the class attributes we add to our HTML elements have `col-` as part of their value, they will be selected. To learn more about this selector, you can view <a href="https://www.w3schools.com/cssref/sel_attr_contain.asp" target="_blank">this page</a> on W3 schools.
+
+Then, we add the `float:` property so that everything is stacked from left to right. Finally, adding some `padding:` will create some space between each column.
+
+
 
 ```css
 .row::after {
