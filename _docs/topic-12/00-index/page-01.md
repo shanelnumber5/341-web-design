@@ -9,23 +9,18 @@ tags:
 
 <div class="section-title">
   <img src="../img/assignment-12.svg" alt="" title="Assignment 12: CSS Website" />
-  <h2 style="text-align: center;">CSS Website</h2>
+  <h2 style="text-align: center;">Responsive Web Design</h2>
 </div>
 
 
-Now that you've had some practice with using CSS, let's apply it to building sites filled with pages that look and fuction with a cohesive theme.
+We've spent this semester learning HTML and CSS. Now that you've had some practice with both, you will apply what you've learned about both web design and web development to your final project, which will be a website filled with pages that look and fuction with a cohesive theme. We will start off this topic reviewing some core CSS concepts you will need to keep in mind.
 
-For this site, use your knowledge of CSS to create a standard 4-page site for an imaginary client. You'll be introduced to placeholder content and using filler content while prototyping, as well as standard navigation and placement. This site should showcase:
-1. Your understanding of color.
-2. Well-selected and well-paired fonts.
-2. Creative use of typography principles.
-4. Use of positioning text, media, and layout elements.
-5. Clean, legible coding.
+Next, we are going to learn about responsive web design, or RWD, and taking a mobile-first approach to web design. It's important to design and build your website not only thinking about its desktop appearance but also how it will display to users who are on mobile. 
 
 
 By the end of this Topic, we hope you:
 <ul class="pros-and-cons">
-  <li class="icon-pro">Have a self-made 4+ page site.</li>
-  <li class="icon-pro">Showcase an understanding of CSS as a styling language.</li>
-  <li class="icon-pro">Explored building a site based off of a theme, which is reflected across all its content.</li>
+  <li class="icon-pro">Have reviewed and solidified important CSS concepts</li>
+  <li class="icon-pro">Understand how to develop your website to be responsive</li>
+  <li class="icon-pro">Explore principles related to mobile-first web design</li>
 </ul>
