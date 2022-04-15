@@ -838,7 +838,7 @@ topic-12:
 
 # TOPIC 13
 topic-13:
-  - title: “CSS Frameworks and HTML5 Canvas”
+  - title: “CSS Frameworks”
     docs:
     - overview
   - title: Framework Examples
@@ -848,12 +848,4 @@ topic-13:
     - bulma
     - ulkit
     - semantic-ui
-    - todo-frameworks 
-  - title: HTML5
-    docs:
-    - html5-intro
-    - html5-canvas
-    - html5-draw-shapes
-    - html5-text
-    - html5-draw-images
-    - todo-html5
+    - todo-frameworks
