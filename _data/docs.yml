@@ -834,14 +834,6 @@ topic-12:
     - rwd-iframes
     - todo-rwd
 
-  - title: Interactive Navigation
-    docs:
-    - nav-menu-about
-    - nav-menu-bar
-    - nav-menu-dropdown
-    - nav-menu-sticky
-    - todo-nav-menu
-
 ##################################################
 
 # TOPIC 13
