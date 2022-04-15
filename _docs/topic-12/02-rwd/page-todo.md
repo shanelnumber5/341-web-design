@@ -10,16 +10,15 @@ categories: uncategorized
   <div class="col-lg-4">
     <div class="bs-component">
       <div class="list-group">
-        <a href="https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag" target="_blank" class="list-group-item hw-item">
-          <i class="icon-hw fab fa-codepen" aria-hidden="true"></i>
-          <h4 class="list-group-item-heading">Mozilla Information on View Port</h4>
-          <div class="divider-hw"></div>
-          <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 6 minute reading</p>
+        <a href="https://www.w3schools.com/css/css3_mediaqueries_ex.asp" target="_blank" class="list-group-item">
+          <img src="../../topic-09/img/hw-icon-w3schools.png" style="max-height: 100px; margin: auto; margin-bottom: 10px;" />
+          <h4 class="list-group-item-heading">CSS Media Queries from W3Schools</h4>
+          <hr>
+          <p class="list-group-item-text"><i class="fa fa-clock-o" aria-hidden="true"></i> 7 minute reading</p>
         </a>
       </div>
-    </div>
-  </div>
-   <div class="col-lg-4">
+    </div> 
+  <div class="col-lg-4">
     <div class="bs-component">
       <div class="list-group">
         <a href="https://www.w3schools.com/css/css_rwd_viewport.asp" target="_blank" class="list-group-item">
