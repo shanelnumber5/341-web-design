@@ -10,11 +10,9 @@ tags:
 
 ## Media Query
 
-Media query is a CSS technique introduced in CSS3.
+Media query is a CSS technique introduced in CSS3. It uses the @media rule to include a block of CSS properties only if a certain condition is true.
 
-It uses the @media rule to include a block of CSS properties only if a certain condition is true.
-
-For example
+This is most often used to check the width of a browser window on a device and change the CSS styling accordingly. For example:
 
 ```css
 @media only screen and (max-width: 600px) {
@@ -24,9 +22,11 @@ For example
 }
 ```
 
-If the browser window is 600px or smaller, the background color will be lightblue.
+The code here is telling our browser to check the maximum width of the screen. If the browser window is 600px or smaller, the background color will become lightblue.
 
-Another example
+Please note that all style rules that you want to add if the browser window is 600px or smaller are written with standard CSS syntax, but they must be wrapped in an extra set of `{}` that are associated with the `@media` rule.
+
+As another example, if we want the screen (browser window) to resize when it becomes smaller than 768px across (standard for a phone), we can set each column to have a width of 100%:
 
 ```css
 /* For desktop: */
@@ -51,15 +51,19 @@ Another example
 }
 ```
 
-When the screen (browser window) gets smaller than 768px, each column should have a width of 100%.
+Here is what our previous example looks like with this rule added:
 
-#### Always Design for Mobile First
+<div class="codepen-embed">
+  <p data-height="600" data-theme-id="30567" data-slug-hash="RwxqaZV" data-default-tab="css,result" data-user="mart341" data-embed-version="2" data-pen-title="12 Columns with Media Query" class="codepen"></p>
+</div>
 
-Mobile First means designing for mobile before designing for desktop or any other device (This will make the page display faster on smaller devices).
 
-This means that we must make some changes in our CSS.
 
-Instead of changing styles when the width gets smaller than 768px, we should change the design when the width gets larger than 768px. This will make our design Mobile First.
+## A Mobile First Approach
+
+If we wanted to take a mobile-first approach, that means we must design (and code!) for mobile before designing for desktop or any other advice. This will also make the page display faster on smaller devices.
+
+This means that we must make some changes in our CSS. Instead of changing styles when the width gets smaller than 768px, we should change the design when the width gets larger than 768px.
 
 ```css
 /* For mobile phones: */
@@ -125,8 +129,5 @@ One can design for as many screen sizes as they want.
 }
 ```
 
-<div class="codepen-embed">
-  <p data-height="600" data-theme-id="30567" data-slug-hash="abZaMJX" data-default-tab="css,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="Media Queries" class="codepen"></p>
-</div>
 
 <a href="https://www.w3schools.com/css/css_rwd_mediaqueries.asp" target="_new"><em>Reference</em></a>
