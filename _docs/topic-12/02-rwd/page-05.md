@@ -109,7 +109,7 @@ We should also apply the following to all the classes:
 }
 ```
 
-The strange selector, `[class*="col-"`, we are using here is a helpful one: it is telling our browser to select all class attributes that has a value that is `col-`. Of course, each of our `col-` classes also have a number added afterward, but so long as the class attributes we add to our HTML elements have `col-` as part of their value, they will be selected. To learn more about this selector, you can view <a href="https://www.w3schools.com/cssref/sel_attr_contain.asp" target="_blank">this page</a> on W3 schools.
+The strange selector, `[class*="col-"]`, we are using here is a helpful one: it is telling our browser to select all class attributes that has a value that is `col-`. Of course, each of our `col-` classes also have a number added afterward, but so long as the class attributes we add to our HTML elements have `col-` as part of their value, they will be selected. To learn more about this selector, you can view <a href="https://www.w3schools.com/cssref/sel_attr_contain.asp" target="_blank">this page</a> on W3 schools.
 
 Then, we add the `float:` property so that everything is stacked from left to right. Finally, adding some `padding:` will create some space between each column.
 
