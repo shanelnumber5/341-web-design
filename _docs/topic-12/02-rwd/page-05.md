@@ -10,11 +10,11 @@ tags:
 
 ## Building a Responsive Grid-View
 
-Let's start building a responsive grid-view.
+Let's start building a responsive grid-view. This will make it easier to resize your website for smaller screens.
 
-First ensure that all HTML elements have the box-sizing property set to border-box. This makes sure that the padding and border are included in the total width and height of the elements.
+First, we must ensure that all HTML elements have the box-sizing property set to border-box. This makes sure that the padding and border are included in the total width and height of the elements.
 
-Add the following code in your CSS:
+To select all HTML elements, we can use the universal selector, `*`. Add the following code in your CSS stylesheet:
 
 ```css
 * {
@@ -22,7 +22,7 @@ Add the following code in your CSS:
   }
 ```
 
-The following example shows a simple responsive web page, with two columns. The `menu` class is always going to take up 25% of the screen, and the `main` class is always going to take up 75% of the screen, no matter how the page is resized by the user.
+The following example shows a simple responsive web page, with two columns. The `menu` class is always going to take up the first 25% of the screen, and the `main` class is always going to take up the other 75% of the screen, no matter how the page is resized by the user.
 
 ```css
 .menu {
@@ -78,7 +78,7 @@ Here is the corresponding HTML:
   <p data-height="600" data-theme-id="30567" data-slug-hash="OJXoqPN" data-default-tab="css,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="Grid-View 2 Column" class="codepen"></p>
 </div>
 
-What if we want to use a responsive grid-view with 12 columns, to have more control over the web page?
+What if we want to use a responsive grid-view with 12 columns? 12 columns is standard for webpages, because with more columns, we have more control over the web page.
 
 First, we need to calculate the percentage for one column: 100% / 12 columns = 8.33%.
 
@@ -113,7 +113,7 @@ The strange selector, `[class*="col-"]`, we are using here is a helpful one: it 
 
 Then, we add the `float:` property so that everything is stacked from left to right. Finally, adding some `padding:` will create some space between each column.
 
-Next, we shoul add the following:
+Next, we need to think about how we can split our page into <i>rows</i>, too. We can create a class called `row` and apply it to any elements we want to separate into a new row. Then, in our CSS stylesheet, we should add the following:
 
 ```css
 .row::after {
@@ -122,6 +122,8 @@ Next, we shoul add the following:
   display: table;
 }
 ```
+
+Using the pseudoselector of `::after` here allows us to add styling rules that will happen <i>after</i> a row finishes, meaning we could add whitespace if we wanted. Here, we are adding the `content` property, which allows us to add content like text if we wish. It's left empty in this case. The `clear` property is related to the `float` property, and dictates how content like images will flow around this element. Finally, displaying the row as a table will help center our content on the page.
 
 ```html
 <div class="row">
