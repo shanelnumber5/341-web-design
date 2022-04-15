@@ -17,7 +17,8 @@ categories: uncategorized
           <p class="list-group-item-text"><i class="fa fa-clock-o" aria-hidden="true"></i> 7 minute reading</p>
         </a>
       </div>
-    </div> 
+    </div>
+  </div>
   <div class="col-lg-4">
     <div class="bs-component">
       <div class="list-group">
