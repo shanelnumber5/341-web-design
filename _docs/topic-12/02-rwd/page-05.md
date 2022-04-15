@@ -113,7 +113,7 @@ The strange selector, `[class*="col-"]`, we are using here is a helpful one: it 
 
 Then, we add the `float:` property so that everything is stacked from left to right. Finally, adding some `padding:` will create some space between each column.
 
-
+Next, we shoul add the following:
 
 ```css
 .row::after {
