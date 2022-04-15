@@ -27,11 +27,9 @@ Or even the humble HTML form:
 
 <img src="../img/uikit-form.webp">
 
-If this doesn't scream elegance at the top of its lungs, I don’t know what does. Just head over to the UIkit website and check out all the incredible components it has on offer. Unless your project manager or customer forces a particular style language on you, I think Uikit takes the crown for UI design and is several miles ahead of Google’s Material Design.
+The elegance and minimalist style appeals to many web designers and developers out there. Just head over to the UIkit website and check out all of the incredible components it has on offer.
 
-But is there a catch, you're wondering. Yes, there is. Like Bootstrap, UIkit works with its JavaScript and while you can use jQuery for DOM manipulation, using a virtual DOM framework like React is impossible.
-
-Also, Uikit is a self-contained system, and you won’t be able to modify or extend it without putting in considerable effort.
+Unfortunately, Uikit is a self-contained system, and you won’t be able to modify or extend it without putting in considerable effort.
 
 <a href="https://geekflare.com/best-css-frameworks/" target="_new"><em>Reference</em></a>
 
