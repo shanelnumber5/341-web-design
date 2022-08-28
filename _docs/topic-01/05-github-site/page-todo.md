@@ -34,7 +34,7 @@ categories: uncategorized
   <div class="col-lg-4">
     <div class="bs-component">
       <div class="list-group">
-        <a href="https://ashley-rezvani.github.io/341-web-design-Spring2022/topic-01/gh-new-repo/" class="list-group-item">
+        <a href="https://ashley-rezvani.github.io/341-web-design/topic-01/gh-new-repo/" class="list-group-item">
           <i class="icon-hw fas fa-folder-plus" aria-hidden="true"></i>
           <h4 class="list-group-item-heading">Create a Repo on GitHub.com</h4>
           <div class="divider-hw"></div>
