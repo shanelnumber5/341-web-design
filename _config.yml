@@ -5,13 +5,13 @@ description: >
   Course content for an introductory look at building and designing for the web.
 lang: en-US
 
-apex: https://ashley-rezvani.github.io/341-web-design-Spring2022/
+apex: https://ashley-rezvani.github.io/341-web-design/
 author:
   name: Michael Cassens
   email: michael.cassens@umontana.edu
 
-baseurl: "https://ashley-rezvani.github.io/341-web-design-Spring2022"
-url: https://ashley-rezvani.github.io/341-web-design-Spring2022/
+baseurl: "https://ashley-rezvani.github.io/341-web-design"
+url: https://ashley-rezvani.github.io/341-web-design/
 git_address: https://github.com/Montana-Media-Arts/341-web-design-Spring2021
 git_edit_address: https://github.com/Montana-Media-Arts/341-web-design-Spring2021/blob/gh-pages
 
