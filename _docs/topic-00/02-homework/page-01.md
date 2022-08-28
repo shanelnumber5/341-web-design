@@ -11,7 +11,7 @@ tags: homework, required
 
 <img src="../img/materials-nav-example.gif" alt="locations of materials links" title="Materials Navigation" />
 
-As stated, the majority of your development-oriented learning materials will be posted of this site. The course is broken up into 14 modules (as seen in the “Modules” dropdown menu above).
+As stated, the majority of your development-oriented learning materials will be posted on this site. The course is broken up into 14 modules (as seen in the “Modules” dropdown menu above).
 
 The left navigation menu further breaks up these topics into sub-topics, meant to offer information in digestible portions.
 
