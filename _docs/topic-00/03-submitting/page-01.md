@@ -7,9 +7,6 @@ tags: github, hosting, issues, wiki
 ---
 
 <div class="divider-heading"></div>
-
-Again, this should be a review from Creative Coding 1, but I want us to start off in the same place.  A little review never hurt anyone :-)
-
 <a href="https://github.com/" target="_blank">GitHub.com</a> is a web-based Git repository hosting service, and is required for you to use in this course. But you may be wondering why? Well, GitHub is a major tool that developers use to - well, _develop_ - and how we’re going to help you create, fix, and build websites.
 
 
