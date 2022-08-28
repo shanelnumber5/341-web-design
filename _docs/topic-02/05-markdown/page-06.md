@@ -15,7 +15,7 @@ Using Markdown, **images** or other graphics are written similarly to links, exc
   <span class="md">Markdown</span>
 </div>
 ```markdown
-![GitHub logo with absolute URL](https://ashley-rezvani.github.io/341-web-design-Spring2022-resources/graphics/icons/github-icon.png)
+![GitHub logo with absolute URL](https://ashley-rezvani.github.io/341-web-design-resources/graphics/icons/github-icon.png)
 
 ![GitHub logo with relative URL](./img/github-icon.png)
 ```
@@ -24,7 +24,7 @@ Using Markdown, **images** or other graphics are written similarly to links, exc
   <span class="preview">Preview</span>
 </div>
 <div class="preview">
-<img src="https://ashley-rezvani.github.io/341-web-design-Spring2022-resources/graphics/icons/github-icon.png" alt="github logo" title="Absolute URL" />
+<img src="https://ashley-rezvani.github.io/341-web-design-resources/graphics/icons/github-icon.png" alt="github logo" title="Absolute URL" />
 
 <img src="../img/github-icon.png" alt="github logo" title ="Relative URL" />
 </div>
