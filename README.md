@@ -4,6 +4,8 @@
 # Intro-Web-Dev Site Repo
 Instructor: Ashley Rezvani ([ashley.rezvani@mso.umt.edu](mailto:ashley.rezvani@mso.umt.edu))
 
+This is the README file for the course website! Here, I can explain important information about this website. In our class, you will usually be asked to answer questions about course material in your README files. As explained on the course website, you'll be using many different file types (.html, .css, in addition to a variety of media types like .jpeg or .m4a) and your README files will always be .md, or a Markdown file.
+
 
 ### License
 Released under [the MIT license](LICENSE).
