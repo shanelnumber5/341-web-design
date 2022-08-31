@@ -18,7 +18,7 @@ tags: file, folder, relative, url
 
 The "." is a path component stating that we need to remain in the current level of our directory hierarchy. Effectively, it says _"to find this file, begin here and then head down inside the images folder, where you'll find profile.png."_
 
-To continue our analogy, since I'm already inside the same building as "profile.png," I only need its apartment name to find it.
+To continue our analogy, since I'm already inside the same building as "profile.png," I only need its apartment number to find it.
 
 This will be handy for you as you start to link to your own images within your repo.
 
