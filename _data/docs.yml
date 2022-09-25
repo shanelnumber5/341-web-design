@@ -219,14 +219,6 @@ topic-04:
     - nav-pages
     - todo-nav-links
 
-  - title: Developing with GitHub Desktop
-    docs:
-    - gh-app-install
-    - gh-app-connect
-    - gh-app-navigate
-    - gh-app-workflow
-    - todo-gh-app
-
 ##################################################
 
 topic-05:
