@@ -24,7 +24,7 @@ This week, using our knowledge of HTML and GitHub, we will create a 3-page websi
 
 <br/>
 
-This week is our last focusing on HTML. After spring break, we will be diving into CSS. I like to think of this week as a bridge between the two, and we will introduce some preliminary CSS concepts, such as how to integrate HTML and CSS.
+This week is our last focusing on HTML, and next week we will be diving into CSS. I like to think of this week as a bridge between the two, and we will introduce some preliminary CSS concepts, such as how to integrate HTML and CSS.
 
 <br/>
 
