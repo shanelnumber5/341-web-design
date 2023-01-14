@@ -11,6 +11,6 @@ tags: materials
 
 This site, [{{ site.url }}]({{ site.url }}), is where most of your learning materials are hosted. Please bookmark it!
 
-In addition, you can post questions about course content or ask for help by visiting the <a href="https://moodle.umt.edu/mod/hsuforum/view.php?id=2239650" target="_new">Moodle forum</a> at any time.
+In addition, you can post questions about course content or ask for help by visiting the <a href="https://moodle.umt.edu/mod/hsuforum/view.php?id=2401173" target="_new">Moodle forum</a> at any time.
 
 Our course follows a similar pattern as many sites do across the web, linking multiple interfaces together. You're aware of Moodle, but we also rely heavily on GitHub as both a learning resource and hosting service for your work.
