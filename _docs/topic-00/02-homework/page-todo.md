@@ -12,9 +12,9 @@ This area will contain related areas you should explore. Most are required, but 
   <div class="col-lg-4">
     <div class="bs-component">
       <div class="list-group">
-        <a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://moodle.umt.edu/pluginfile.php/3401010/mod_resource/content/4/MART341%20Syllabus%20-%20Intro%20to%20Web%20Design.pdf" target="_blank" class="syllabus hw-item">
+        <a href="https://moodle.umt.edu/mod/quiz/view.php?id=2438345" target="_blank" class="syllabus quiz hw-item">
           <i class="icon-hw fas fa-copy" aria-hidden="true"></i>
-          <h4 class="list-group-item-heading">Spring 2023 Syllabus</h4>
+          <h4 class="list-group-item-heading">Spring 2023 Syllabus Quiz</h4>
           <div class="divider-hw"></div>
           <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 8 minute reading</p>
         </a>
