@@ -30,7 +30,6 @@ This area will contain related areas you should explore. Most are required, but 
           <div class="divider-hw"></div>
           <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 8 Minute Reading</p>
         </a>
-        </a>
       </div>
     </div>
   </div>
