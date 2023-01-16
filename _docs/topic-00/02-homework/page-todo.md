@@ -12,8 +12,9 @@ This area will contain related areas you should explore. Most are required, but 
   <div class="col-lg-4">
     <div class="bs-component">
       <div class="list-group">
-        <img src="../img/syllabus_Page_1.png" alt="spring 2023 syllabus" title="Mart 341 Syllabus" />
+        <img src="./img/syllabus.pdf" alt="spring 2023 syllabus" title="Mart 341 Syllabus" />
           <i class="icon-hw fas fa-file-alt" aria-hidden="true"></i>
+          <h4 class="list-group-item-heading">Course Syllabus</h4>
           <div class="divider-hw"></div>
           <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 8 minute read</p>
         </a>
