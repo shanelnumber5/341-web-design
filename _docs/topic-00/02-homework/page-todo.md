@@ -12,11 +12,27 @@ This area will contain related areas you should explore. Most are required, but 
   <div class="col-lg-4">
     <div class="bs-component">
       <div class="list-group">
+        <a href="https://moodle.umt.edu/mod/quiz/view.php?id=2438345](https://moodle.umt.edu/mod/hsuforum/view.php?id=2401177" target="_blank" class="introduce yourself hw-item">
+          <i class="icon-hw fas fa-copy" aria-hidden="true"></i>
+          <h4 class="list-group-item-heading">Please Introduce Yourself</h4>
+          <div class="divider-hw"></div>
+          <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 15 Minute Assignment</p>
+        </a>
+      </div>
+      <div class="list-group">
         <a href="https://moodle.umt.edu/mod/quiz/view.php?id=2438345" target="_blank" class="syllabus quiz hw-item">
           <i class="icon-hw fas fa-copy" aria-hidden="true"></i>
           <h4 class="list-group-item-heading">Spring 2023 Syllabus Quiz</h4>
           <div class="divider-hw"></div>
-          <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 8 minute reading</p>
+          <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 8 Minute Reading</p>
+        </a>
+      </div>
+      <div class="list-group">
+        <a href="https://moodle.umt.edu/mod/quiz/view.php?id=2438345](https://moodle.umt.edu/mod/assign/view.php?id=2401178" target="_blank" class="make a github account hw-item">
+          <i class="icon-hw fas fa-copy" aria-hidden="true"></i>
+          <h4 class="list-group-item-heading">Make a GitHub Account Assignment</h4>
+          <div class="divider-hw"></div>
+          <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 30 Minute Assignment </p>
         </a>
       </div>
     </div>
