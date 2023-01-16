@@ -28,7 +28,7 @@ This area will contain related areas you should explore. Most are required, but 
           <i class="icon-hw fas fa-copy" aria-hidden="true"></i>
           <h4 class="list-group-item-heading">Spring 2023 Syllabus Quiz</h4>
           <div class="divider-hw"></div>
-          <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 8 Minute Reading</p>
+          <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 8 Minute Quiz</p>
         </a>
       </div>
     </div>
