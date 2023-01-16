@@ -13,9 +13,9 @@ We organize these different files into groups, just like you do with your other 
 
 <div style="padding: 20px 0px 80px 0px;">
   <p align="center">
-    <img src="https://www.nba.com/nuggets/sites/nuggets/files/dn-primary-website-logo.png" alt="Denver Nugget's Logo" style="border: none;"/>
+    <img src="https://content.sportslogos.net/logos/6/229/full/8926_denver_nuggets-primary-2019.png" alt="Denver Nugget's Logo" style="border: none;"/>
   </p>
-  <p class="url-example">https://www.nba.com/nuggets/sites/nuggets/files/dn-primary-website-logo.png</p>
+  <p class="url-example">https://content.sportslogos.net/logos/6/229/full/8926_denver_nuggets-primary-2019.png</p>
 </div>
 
 The **path** (or “directions”) for this image, `/nuggets/sites/nuggets/files/` actually refers to the nesting of its folders, or **directories**.
