@@ -13,7 +13,7 @@ As you just read in “<a href="../web-files-text">Text Documents</a>”, said *
 
 
 ## Creating plain text files
-Text files can be created and edited using a **“text editor,”** which is any application for editing ASCII text documents. <a href="https://atom.io/" target="_blank">Atom</a>, <a href="https://code.visualstudio.com/download">VS Code</a>, <a href="https://www.sublimetext.com/" target="_blank">Sublime Text</a>, and <a href="http://brackets.io/" target="_blank">Brackets</a> are popular options among web developers.
+Text files can be created and edited using a **“text editor,”** which is any application for editing ASCII text documents. <a href="https://code.visualstudio.com/download">VS Code</a>, <a href="https://www.sublimetext.com/" target="_blank">Sublime Text</a>, and <a href="http://brackets.io/" target="_blank">Brackets</a> are popular options among web developers.
 
 The default application on Mac and Windows are the following:
 
