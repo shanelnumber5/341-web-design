@@ -130,13 +130,13 @@ topic-02:
 
   - title: Developing with a Text Editor
     docs:
-    - atom-install
-    - atom-directories
-    - atom-files
-    - atom-readmes
-    - atom-move-file
+    - vscode-install
+    - vscode-directories
+    - vscode-files
+    - vscode-readmes
+    - vscode-move-file
     - git-add-directory
-    - todo-atom
+    - todo-vscode
 
 ##################################################
 
