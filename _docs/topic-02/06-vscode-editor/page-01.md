@@ -23,7 +23,7 @@ For this class, we need a text editor that is optimized for web development and 
 <div class="divider-pg"></div>
 
 
-## Atom Installation Guide
+## VS Code Installation Guide
 The following pages will guide you through the installation process. Please following the appropriate instructions for your device.
 
 
