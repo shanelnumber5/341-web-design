@@ -1,9 +1,9 @@
 ---
-title: Atom Text Editor
+title: VS Code Text Editor
 module: topic-02
-permalink: /topic-02/atom-install/
+permalink: /topic-02/vscode-install/
 categories: development
-tags: atom, editor, guide, install, text
+tags: vscode, editor, guide, install, text
 ---
 
 <div class="divider-heading"></div>
@@ -15,9 +15,9 @@ Text editors are specialty applications which can ease the type of text and codi
 
 There are many types of text editors, each optimized for specific types of tasks.
 
-<img src="../img/logo-atom.png" alt="Atom text editor logo" />
+<img src="../img/logo-vscode.png" alt="VS Code text editor logo" />
 
-For this class, we need a text editor that is optimized for web development and code. You are welcome to use whatever text editor you like for this course, however, we will be using GitHub's open-source <a href="https://atom.io" target="_blank">Atom Editor</a> for our videos and tutorials, and it may behoove you to use it as well (especially beginners).
+For this class, we need a text editor that is optimized for web development and code. You are welcome to use whatever text editor you like for this course, however, we will be using GitHub's open-source <a href="https://code.visualstudio.com/download" target="_blank">VS Code Editor</a> for our videos and tutorials, and it may behoove you to use it as well (especially beginners).
 
 
 <div class="divider-pg"></div>
@@ -42,7 +42,7 @@ The following pages will guide you through the installation process. Please foll
 ## Optional/Recommended Additions
 Most text editors allow you to download additional options created by the community which extend their functionality and can make them more suited to your particular needs.
 
-For Atom and this course, these would be very beneficial:
+For VS Code and this course, these would be very beneficial:
 
 These **packages** (slides 1-8), add functionality to your editor.
 - **file-icons** - Displays file type icons next to files in the sidebar (used in the following tutorial)
