@@ -1,9 +1,9 @@
 ---
 title: Working with README.md Files
 module: topic-02
-permalink: /topic-02/atom-readmes/
+permalink: /topic-02/vscode-readmes/
 categories: development
-tags: atom, file, guide, markdown, readme
+tags: vscode, file, guide, markdown, readme
 ---
 
 <div class="divider-heading"></div>

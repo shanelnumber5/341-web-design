@@ -1,9 +1,9 @@
 ---
 title: Managing Directories
 module: topic-02
-permalink: /topic-02/atom-directories/
+permalink: /topic-02/vscode-directories/
 categories: development
-tags: atom, directory, guide
+tags: vscode, directory, guide
 ---
 
 <div class="divider-heading"></div>

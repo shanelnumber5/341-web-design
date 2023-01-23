@@ -1,9 +1,9 @@
 ---
 title: Managing Files
 module: topic-02
-permalink: /topic-02/atom-files/
+permalink: /topic-02/vscode-files/
 categories: development
-tags: atom, file, guide
+tags: vscode, file, guide
 ---
 
 <div class="divider-heading"></div>
