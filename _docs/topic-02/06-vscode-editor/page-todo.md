@@ -2,7 +2,7 @@
 title: TODO
 module: topic-02
 todo: <i class="fas fa-check-square" aria-hidden="true"></i>
-permalink: /topic-02/todo-atom/
+permalink: /topic-02/todo-vscode/
 categories: uncategorized
 ---
 
