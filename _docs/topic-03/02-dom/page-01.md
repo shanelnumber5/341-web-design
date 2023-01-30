@@ -19,9 +19,9 @@ For example, HTML is a language that describes the structure of a document inten
     <img src="../img/dom-map.svg" alt="billboard with the words www.example.com on it" title="Domain" />
   </div>
   <div class="col-lg-10">
-    <p>The <b>DOM</b> is an interface to a document and stipulates how that document is accessed and changed by defining its structure in a logical way. The DOM represents these documents as nodes and objects on a <a href="https://en.wikipedia.org/wiki/Tree_structure" target="_blank">tree structure</a> so that programming languages such as <a href="https://ashley-rezvani.github.io/341-web-design-Spring2022/topic-01/web-files-scripts/">JavaScript</a> can modify the content.</p>
+    <p>The <b>DOM</b> is an interface to a document and stipulates how that document is accessed and changed by defining its structure in a logical way. The DOM represents these documents as nodes and objects on a <a href="https://en.wikipedia.org/wiki/Tree_structure" target="_blank">tree structure</a> so that programming languages such as <a href="https://shanelnumber5.github.io/341-web-design/topic-01/web-files-scripts/">JavaScript</a> can modify the content.</p>
 
-    <p>This process becomes particularly useful when styling (or “decorating”) objects. Combined with some other processes (see “<a href="https://ashley-rezvani.github.io/341-web-design-Spring2022/topic-03/browser-intro/">How Web Browsers Function</a>”), the DOM helps connect styling wants to the appropriate structural elements.</p>
+    <p>This process becomes particularly useful when styling (or “decorating”) objects. Combined with some other processes (see “<a href="https://shanelnumber5.github.io/341-web-design/topic-03/browser-intro/">How Web Browsers Function</a>”), the DOM helps connect styling wants to the appropriate structural elements.</p>
   </div>
 </div>
 
