@@ -17,7 +17,7 @@ Using Markdown, **images** or other graphics are written similarly to links, exc
 ```markdown
 ![GitHub logo with absolute URL](https://shanelnumber5.github.io/341-web-design-resources/graphics/icons/github-icon.png)
 
-![GitHub logo with relative URL](./img/github-icon.png)
+![GitHub logo with relative URL](../img/github-icon.png)
 ```
 
 <div class="code-heading">
